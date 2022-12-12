@@ -14,7 +14,7 @@ This repository documents the requirements to reach each item location in Hero's
 
 `tags` are a two dimensional array. The outer array connects its elements with OR, the inner array connects its elements with AND. The example above reads as "Hammer OR (Silver Key AND Compass)".
 
-Valid tags: `Hammer`, `Boots`, `Compass`, `Spectacles`, `LavaCharm`, `WindRing`, `BlueSword`, `BlueShield`, `RedSword`, `RedShield`, `SilverKey`, `GoldKey`, `RedKey`, `GreenKey`, `BlueKey`, `TealKey`, `PurpleKey`, `SkeletonKey`, `Sword`, `PortalStone`, `Gem`, `Treasure`, `ShrineKey`, `NewGame`, `NewGamePlus`
+Valid tags: `Hammer`, `Boots`, `Compass`, `Spectacles`, `LavaCharm`, `WindRing`, `BlueSword`, `BlueShield`, `RedSword`, `RedShield`, `SilverKey`, `GoldKey`, `RedKey`, `GreenKey`, `BlueKey`, `TealKey`, `PurpleKey`, `SkeletonKey`, `Sword`, `PortalStone`, `Treasure`, `ShrineKey`, `UnderworldKey`, `OrangeCrystal`, `Carrot`, `Mirror`, `NewGame`, `NewGamePlus`
 
 If the first character of a tag is numeric, it specifies the amount needed in the format `<amount> <tag>`.
 
@@ -24,6 +24,7 @@ If the first character of a tag is numeric, it specifies the amount needed in th
 
 - The starting point is normal and all portals and transitions connect as usual
 - Gold Sword, Shields and Stopwatches are not shuffled (so they may be used from their normal locations)
+- Hearts are not shuffled (can add this without much overhead, just saving work for now)
 
 # Progress
 
@@ -56,7 +57,3 @@ If the first character of a tag is numeric, it specifies the amount needed in th
 - [ ] HauntedManse
 - [ ] SmugglersRoad
 - [ ] SmugglersRuin
-
-# TODO
-
-Logic for Orange Crystal, Mirror, NG+ exclusive connections
