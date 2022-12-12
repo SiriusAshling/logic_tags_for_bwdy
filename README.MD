@@ -14,7 +14,7 @@ This repository documents the requirements to reach each item location in Hero's
 
 `tags` are a two dimensional array. The outer array connects its elements with OR, the inner array connects its elements with AND. The example above reads as "Hammer OR (Silver Key AND Compass)".
 
-Valid tags: `Hammer`, `Boots`, `Compass`, `Spectacles`, `LavaCharm`, `WindRing`, `BlueSword`, `BlueShield`, `RedSword`, `RedShield`, `SilverKey`, `GoldKey`, `RedKey`, `GreenKey`, `BlueKey`, `TealKey`, `PurpleKey`, `SkeletonKey`, `Sword`, `PortalStone`, `Gem`, `Treasure`, `ShrineKey`
+Valid tags: `Hammer`, `Boots`, `Compass`, `Spectacles`, `LavaCharm`, `WindRing`, `BlueSword`, `BlueShield`, `RedSword`, `RedShield`, `SilverKey`, `GoldKey`, `RedKey`, `GreenKey`, `BlueKey`, `TealKey`, `PurpleKey`, `SkeletonKey`, `Sword`, `PortalStone`, `Gem`, `Treasure`, `ShrineKey`, `NewGame`, `NewGamePlus`
 
 If the first character of a tag is numeric, it specifies the amount needed in the format `<amount> <tag>`.
 
@@ -39,7 +39,7 @@ If the first character of a tag is numeric, it specifies the amount needed in th
 - [ ] Sanctuary
 - [ ] TheTunnels
 - [ ] Luddershore
-- [ ] TheTundra
+- [x] TheTundra
 - [ ] FrozenShore
 - [ ] HallowGround
 - [x] SouthernSwamp
