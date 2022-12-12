@@ -42,7 +42,7 @@ If the first character of a tag is numeric, it specifies the amount needed in th
 - [ ] TheTundra
 - [ ] FrozenShore
 - [ ] HallowGround
-- [ ] SouthernSwamp
+- [x] SouthernSwamp
 - [ ] DragonsLair
 - [ ] CorruptedCastle
 - [ ] CastleMonillud
@@ -59,4 +59,4 @@ If the first character of a tag is numeric, it specifies the amount needed in th
 
 # TODO
 
-Logic for Orange Crystal, Mirror
+Logic for Orange Crystal, Mirror, NG+ exclusive connections
