@@ -2166,17 +2166,17 @@
     },
     {
         "id": "10.10.1",
-        "tags": [],
+        "tags": [["Compass"], ["Hammer"], ["WindRing"]],
         "notes": "PortalStone"
     },
     {
         "id": "10.28.1",
-        "tags": [],
+        "tags": [["Compass"], ["SilverKey", "Hammer"], ["SilverKey", "SilverKey", "NewGame"], ["SilverKey", "SilverKey", "GoldKey"]],
         "notes": "Sword"
     },
     {
         "id": "10.53.1",
-        "tags": [],
+        "tags": [["Compass"], ["Hammer"], ["SilverKey", "NewGame"], ["SilverKey", "GoldKey"]],
         "notes": "SilverKey"
     },
     {
@@ -2191,27 +2191,27 @@
     },
     {
         "id": "10.6.2",
-        "tags": [],
+        "tags": [["Compass"], ["Hammer"], ["WindRing"]],
         "notes": "Sword"
     },
     {
         "id": "10.37.2",
-        "tags": [],
+        "tags": [["Compass"], ["Hammer"], ["SilverKey", "NewGame"], ["SilverKey", "GoldKey"]],
         "notes": "GoldKey"
     },
     {
         "id": "10.48.2",
-        "tags": [],
+        "tags": [["Compass"], ["Hammer"], ["SilverKey", "NewGame"], ["SilverKey", "GoldKey"]],
         "notes": "GoldKey"
     },
     {
         "id": "10.61.2",
-        "tags": [],
+        "tags": [["Hammer"]],
         "notes": "Sword"
     },
     {
         "id": "10.85.2",
-        "tags": [],
+        "tags": [["Hammer"]],
         "notes": "GoldKey"
     },
     {
@@ -2221,12 +2221,12 @@
     },
     {
         "id": "10.9.3",
-        "tags": [],
+        "tags": [["Compass"], ["Hammer"], ["WindRing"]],
         "notes": "Gem"
     },
     {
         "id": "10.40.3",
-        "tags": [],
+        "tags": [["Compass"], ["Hammer"], ["SilverKey", "NewGame"], ["SilverKey", "GoldKey"]],
         "notes": "SilverKey"
     },
     {
@@ -2236,12 +2236,12 @@
     },
     {
         "id": "10.45.4",
-        "tags": [],
+        "tags": [["Compass"], ["Hammer"], ["SilverKey", "NewGame"], ["SilverKey", "GoldKey"]],
         "notes": "Gem"
     },
     {
         "id": "10.51.4",
-        "tags": [],
+        "tags": [["Compass"], ["Hammer"], ["SilverKey", "NewGame"], ["SilverKey", "GoldKey"]],
         "notes": "Gem"
     },
     {
@@ -2251,7 +2251,7 @@
     },
     {
         "id": "10.1.5",
-        "tags": [],
+        "tags": [["Compass"], ["Hammer"], ["WindRing"]],
         "notes": "Gem"
     },
     {
@@ -2261,12 +2261,12 @@
     },
     {
         "id": "10.37.5",
-        "tags": [],
+        "tags": [["Compass"], ["Hammer"], ["SilverKey", "NewGame"], ["SilverKey", "GoldKey"]],
         "notes": "Gem"
     },
     {
         "id": "10.2.6",
-        "tags": [],
+        "tags": [["Compass"], ["Hammer"], ["WindRing"]],
         "notes": "SilverKey"
     },
     {
@@ -2281,12 +2281,12 @@
     },
     {
         "id": "10.37.8",
-        "tags": [],
+        "tags": [["Compass"], ["Hammer"], ["SilverKey", "NewGame"], ["SilverKey", "GoldKey"]],
         "notes": "PossumCoin"
     },
     {
         "id": "10.51.8",
-        "tags": [],
+        "tags": [["NewGame"], ["Compass"], ["Hammer"], ["GoldKey"]],
         "notes": "Sword"
     },
     {
@@ -2301,12 +2301,12 @@
     },
     {
         "id": "10.48.10",
-        "tags": [],
+        "tags": [["NewGame"], ["Compass"], ["Hammer"], ["GoldKey"]],
         "notes": "PortalStone"
     },
     {
         "id": "10.44.11",
-        "tags": [],
+        "tags": [["Compass"], ["Hammer"], ["SilverKey", "NewGame"], ["SilverKey", "GoldKey"]],
         "notes": "GoldKey"
     },
     {
@@ -2321,12 +2321,12 @@
     },
     {
         "id": "10.1.16",
-        "tags": [],
+        "tags": [["Hammer", "GoldKey"]],
         "notes": "Sword"
     },
     {
         "id": "10.1.17",
-        "tags": [],
+        "tags": [["Hammer", "GoldKey"]],
         "notes": "PortalStone"
     },
     {
@@ -2366,7 +2366,7 @@
     },
     {
         "id": "10.2.22",
-        "tags": [],
+        "tags": [["GoldKey"]],
         "notes": "Gem"
     },
     {
@@ -2391,7 +2391,7 @@
     },
     {
         "id": "10.2.24",
-        "tags": [],
+        "tags": [["Hammer"], ["Compass"]],
         "notes": "Gem"
     },
     {
@@ -2441,12 +2441,19 @@
     },
     {
         "id": "10.125.37",
-        "tags": [],
+        "tags": [["WindRing"], ["SilverKey"]],
         "notes": "PortalStone"
     },
     {
         "id": "10.126.41",
-        "tags": [],
+        "tags": [
+            ["NewGame", "GoldKey", "GoldKey", "GoldKey"],
+            ["GoldKey", "GoldKey", "Hammer"],
+            ["GoldKey", "GoldKey", "WindRing"],
+            ["GoldKey", "GoldKey", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword"],
+            ["GoldKey", "GoldKey", "BlueSword"],
+            ["GoldKey", "GoldKey", "RedSword"]
+        ],
         "notes": "Gem"
     },
     {
@@ -2456,17 +2463,24 @@
     },
     {
         "id": "10.123.42",
-        "tags": [],
+        "tags": [["GoldKey", "GoldKey", "Hammer"]],
         "notes": "PortalStone"
     },
     {
         "id": "10.125.46",
-        "tags": [],
+        "tags": [
+            ["NewGame", "GoldKey", "GoldKey"],
+            ["GoldKey", "Hammer"],
+            ["GoldKey", "WindRing"],
+            ["GoldKey", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword"],
+            ["GoldKey", "BlueSword"],
+            ["GoldKey", "RedSword"]
+        ],
         "notes": "SilverKey"
     },
     {
         "id": "10.22.50",
-        "tags": [],
+        "tags": [["Hammer", "WindRing"]],
         "notes": "ShrineKey"
     },
     {
@@ -2481,17 +2495,17 @@
     },
     {
         "id": "10.125.52",
-        "tags": [],
+        "tags": [["WindRing"]],
         "notes": "PossumCoin"
     },
     {
         "id": "10.45.55",
-        "tags": [],
+        "tags": [["Hammer", "SilverKey", "GoldKey"]],
         "notes": "PortalStone"
     },
     {
         "id": "10.100.55",
-        "tags": [],
+        "tags": [["SilverKey", "GoldKey", "SilverKey", "BlueKey", "SilverKey", "GoldKey"], ["GoldKey", "GoldKey", "SilverKey", "GoldKey", "SilverKey", "GoldKey", "SilverKey", "SilverKey", "GoldKey", "SilverKey", "SilverKey", "SilverKey", "SilverKey", "GoldKey", "SilverKey", "SilverKey", "SilverKey", "GoldKey", "GoldKey"]],
         "notes": "PossumCoin"
     },
     {
@@ -2501,12 +2515,12 @@
     },
     {
         "id": "10.39.57",
-        "tags": [],
+        "tags": [["Hammer", "SilverKey"]],
         "notes": "GoldKey"
     },
     {
         "id": "10.44.58",
-        "tags": [],
+        "tags": [["Hammer", "SilverKey"]],
         "notes": "Sword"
     },
     {
@@ -2521,17 +2535,17 @@
     },
     {
         "id": "10.36.60",
-        "tags": [],
+        "tags": [["Hammer", "SilverKey", "GoldKey"]],
         "notes": "Treasure"
     },
     {
         "id": "10.39.61",
-        "tags": [],
+        "tags": [["Hammer", "SilverKey"]],
         "notes": "PortalStone"
     },
     {
         "id": "10.42.61",
-        "tags": [],
+        "tags": [["Hammer", "SilverKey"]],
         "notes": "Gem"
     },
     {
@@ -2541,12 +2555,12 @@
     },
     {
         "id": "10.77.63",
-        "tags": [],
+        "tags": [["SkeletonKey"]],
         "notes": "Treasure"
     },
     {
         "id": "10.46.64",
-        "tags": [],
+        "tags": [["Hammer", "SilverKey"]],
         "notes": "SilverKey"
     },
     {
@@ -2556,7 +2570,7 @@
     },
     {
         "id": "10.77.64",
-        "tags": [],
+        "tags": [["SkeletonKey"]],
         "notes": "Treasure"
     },
     {
@@ -2566,12 +2580,12 @@
     },
     {
         "id": "10.77.65",
-        "tags": [],
+        "tags": [["SkeletonKey"]],
         "notes": "Treasure"
     },
     {
         "id": "10.18.66",
-        "tags": [],
+        "tags": [["Hammer"]],
         "notes": "Gem"
     },
     {
@@ -2581,12 +2595,12 @@
     },
     {
         "id": "10.40.67",
-        "tags": [],
+        "tags": [["Hammer", "SilverKey"]],
         "notes": "Gem"
     },
     {
         "id": "10.43.67",
-        "tags": [],
+        "tags": [["Hammer", "SilverKey"]],
         "notes": "Sword"
     },
     {
@@ -2601,7 +2615,7 @@
     },
     {
         "id": "10.31.77",
-        "tags": [],
+        "tags": [["SilverKey"]],
         "notes": "Treasure"
     },
     {
@@ -2611,7 +2625,7 @@
     },
     {
         "id": "10.94.79",
-        "tags": [],
+        "tags": [["GoldKey"]],
         "notes": "PossumCoin"
     },
     {
@@ -2646,7 +2660,7 @@
     },
     {
         "id": "10.111.95",
-        "tags": [],
+        "tags": [["SilverKey"]],
         "notes": "Sword"
     },
     {
@@ -2661,7 +2675,7 @@
     },
     {
         "id": "10.60.107",
-        "tags": [],
+        "tags": [["NewGamePlus"], ["WindRing"], ["Hammer"]],
         "notes": "PossumCoin"
     },
     {
@@ -2671,17 +2685,17 @@
     },
     {
         "id": "10.42.111",
-        "tags": [],
+        "tags": [["GoldKey"]],
         "notes": "GoldKey"
     },
     {
         "id": "10.23.112",
-        "tags": [],
+        "tags": [["WindRing"]],
         "notes": "PossumCoin"
     },
     {
         "id": "10.63.112",
-        "tags": [],
+        "tags": [["NewGamePlus"], ["WindRing"], ["Hammer"]],
         "notes": "Treasure"
     },
     {
@@ -2691,17 +2705,17 @@
     },
     {
         "id": "10.50.117",
-        "tags": [],
+        "tags": [["NewGamePlus"], ["WindRing"], ["Hammer"], ["SilverKey"]],
         "notes": "Gem"
     },
     {
         "id": "10.39.120",
-        "tags": [],
+        "tags": [["Hammer"], ["Compass"]],
         "notes": "PortalStone"
     },
     {
         "id": "10.38.122",
-        "tags": [],
+        "tags": [["NewGamePlus"], ["WindRing"], ["Hammer"], ["SilverKey"]],
         "notes": "Sword"
     },
     {
