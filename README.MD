@@ -25,6 +25,38 @@ If the first character of a tag is numeric, it specifies the amount needed in th
 - The starting point is normal and all portals and transitions connect as usual
 - Gold Sword, Shields and Stopwatches are not shuffled (so they may be used from their normal locations)
 
+# Progress
+
+- [ ] DustShelf
+- [ ] ThroneRoom
+- [ ] ExplodingThroneRoom
+- [ ] CastleRuins
+- [x] NorthMundeman
+- [x] SouthMundeman
+- [ ] VerdantCoast
+- [ ] OtherworldArena
+- [x] CastleGrounds
+- [ ] Sanctuary
+- [ ] TheTunnels
+- [ ] Luddershore
+- [ ] TheTundra
+- [ ] FrozenShore
+- [ ] HallowGround
+- [ ] SouthernSwamp
+- [ ] DragonsLair
+- [ ] CorruptedCastle
+- [ ] CastleMonillud
+- [ ] TheUnderworld
+- [ ] Otherworld
+- [ ] MoltenCavern
+- [ ] TheDungeons
+- [ ] ItemShop
+- [ ] Convergence
+- [ ] TrialOfReality
+- [ ] HauntedManse
+- [ ] SmugglersRoad
+- [ ] SmugglersRuin
+
 # TODO
 
 Logic for Orange Crystal, Mirror
