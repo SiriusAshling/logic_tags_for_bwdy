@@ -6082,7 +6082,16 @@
     },
     {
         "id": "35.15.20",
-        "tags": [],
+        "tags": [
+            ["GoldKey", "SilverKey", "WindRing", "Hammer", "LavaCharm", "Compass", "23 Sword", "BlueBoots"],
+            ["GoldKey", "SilverKey", "WindRing", "Hammer", "LavaCharm", "NewGamePlus", "23 Sword", "BlueBoots"],
+            ["GoldKey", "SilverKey", "WindRing", "Hammer", "LavaCharm", "Compass", "65 Sword"],
+            ["GoldKey", "SilverKey", "WindRing", "Hammer", "LavaCharm", "NewGamePlus", "65 Sword"],
+            ["GoldKey", "SilverKey", "WindRing", "Hammer", "LavaCharm", "Compass", "BlueSword"],
+            ["GoldKey", "SilverKey", "WindRing", "Hammer", "LavaCharm", "NewGamePlus", "BlueSword"],
+            ["GoldKey", "SilverKey", "WindRing", "Hammer", "LavaCharm", "Compass", "RedSword"],
+            ["GoldKey", "SilverKey", "WindRing", "Hammer", "LavaCharm", "NewGamePlus", "RedSword"]
+        ],
         "notes": "PossumCoin"
     }
 ]
