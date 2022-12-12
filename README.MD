@@ -38,7 +38,7 @@ If the first character of a tag is numeric, it specifies the amount needed in th
 - [ ] OtherworldArena
 - [x] CastleGrounds
 - [ ] Sanctuary
-- [ ] TheTunnels
+- [x] TheTunnels
 - [ ] Luddershore
 - [x] TheTundra
 - [ ] FrozenShore

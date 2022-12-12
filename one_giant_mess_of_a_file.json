@@ -2780,57 +2780,57 @@
     },
     {
         "id": "12.1.2",
-        "tags": [],
+        "tags": [["NewGame"], ["Hammer"], ["LavaCharm"], ["GoldKey"], ["WindRing", "Compass"], ["WindRing", "UnderworldKey"]],
         "notes": "PossumCoin"
     },
     {
         "id": "12.8.2",
-        "tags": [],
+        "tags": [["NewGame"], ["Hammer"], ["LavaCharm"], ["GoldKey"], ["WindRing", "Compass"], ["WindRing", "UnderworldKey"]],
         "notes": "GoldKey"
     },
     {
         "id": "12.14.2",
-        "tags": [],
+        "tags": [["NewGame"], ["Hammer"], ["LavaCharm"], ["GoldKey"], ["WindRing", "Compass"], ["WindRing", "UnderworldKey"]],
         "notes": "PossumCoin"
     },
     {
         "id": "12.12.5",
-        "tags": [],
+        "tags": [["Hammer"]],
         "notes": "Gem"
     },
     {
         "id": "12.13.8",
-        "tags": [],
+        "tags": [["NewGame"], ["Hammer"], ["LavaCharm"], ["GoldKey"], ["WindRing", "Compass"], ["WindRing", "UnderworldKey"]],
         "notes": "PossumCoin"
     },
     {
         "id": "12.22.8",
-        "tags": [],
+        "tags": [["NewGame"], ["Hammer"], ["LavaCharm"], ["GoldKey"], ["WindRing", "Compass"], ["WindRing", "UnderworldKey"]],
         "notes": "PossumCoin"
     },
     {
         "id": "12.9.10",
-        "tags": [],
+        "tags": [["NewGame"], ["Hammer"], ["LavaCharm"], ["GoldKey"], ["WindRing", "Compass"], ["WindRing", "UnderworldKey"]],
         "notes": "Sword"
     },
     {
         "id": "12.5.15",
-        "tags": [],
+        "tags": [["NewGame"], ["Hammer"], ["LavaCharm"], ["GoldKey"], ["WindRing", "Compass"], ["WindRing", "UnderworldKey"]],
         "notes": "Compass"
     },
     {
         "id": "12.12.15",
-        "tags": [],
+        "tags": [["NewGame"], ["Hammer"], ["LavaCharm"], ["GoldKey"], ["WindRing", "Compass"], ["WindRing", "UnderworldKey"]],
         "notes": "PossumCoin"
     },
     {
         "id": "12.16.22",
-        "tags": [],
+        "tags": [["Compass"], ["Hammer"], ["SilverKey", "NewGame"], ["SilverKey", "GoldKey"], ["OrangeCrystal", "NewGame"], ["OrangeCrystal", "GoldKey"]],
         "notes": "SilverKey"
     },
     {
         "id": "12.19.22",
-        "tags": [],
+        "tags": [["Hammer"]],
         "notes": "PossumCoin"
     },
     {
