@@ -901,27 +901,27 @@
     },
     {
         "id": "6.18.1",
-        "tags": [],
+        "tags": [["LavaCharm"], ["SilverKey"], ["GoldKey"]],
         "notes": "PossumCoin"
     },
     {
         "id": "6.34.1",
-        "tags": [],
+        "tags": [["LavaCharm"], ["SilverKey", "Hammer"], ["SilverKey", "GoldKey"], ["WindRing", "Compass"], ["WindRing", "Hammer", "GoldKey"]],
         "notes": "PossumCoin"
     },
     {
         "id": "6.43.2",
-        "tags": [],
+        "tags": [["WindRing", "Hammer"], ["WindRing", "GoldKey"], ["WindRing", "LavaCharm", "SilverKey"], ["WindRing", "Compass", "SilverKey"]],
         "notes": "PossumCoin"
     },
     {
         "id": "6.11.7",
-        "tags": [],
+        "tags": [["LavaCharm"]],
         "notes": "BlueKey"
     },
     {
         "id": "6.26.7",
-        "tags": [],
+        "tags": [["LavaCharm"], ["SilverKey", "Hammer"], ["SilverKey", "GoldKey"], ["WindRing", "Compass"], ["WindRing", "Hammer", "GoldKey"]],
         "notes": "Treasure"
     },
     {
@@ -931,7 +931,7 @@
     },
     {
         "id": "6.40.10",
-        "tags": [],
+        "tags": [["Hammer"], ["GoldKey"], ["LavaCharm", "SilverKey"], ["WindRing", "Compass", "SilverKey"]],
         "notes": "PossumCoin"
     },
     {
@@ -946,32 +946,32 @@
     },
     {
         "id": "6.52.14",
-        "tags": [],
+        "tags": [["Hammer"], ["GoldKey"], ["LavaCharm", "SilverKey"], ["WindRing", "Compass", "SilverKey"]],
         "notes": "Treasure"
     },
     {
         "id": "6.10.15",
-        "tags": [],
+        "tags": [["LavaCharm"]],
         "notes": "PortalStone"
     },
     {
         "id": "6.43.15",
-        "tags": [],
+        "tags": [["Hammer"], ["GoldKey"], ["LavaCharm", "SilverKey"], ["WindRing", "Compass", "SilverKey"]],
         "notes": "PossumCoin"
     },
     {
         "id": "6.11.16",
-        "tags": [],
+        "tags": [["LavaCharm"]],
         "notes": "Treasure"
     },
     {
         "id": "6.47.16",
-        "tags": [],
+        "tags": [["Hammer"], ["GoldKey"], ["LavaCharm", "SilverKey"], ["WindRing", "Compass", "SilverKey"]],
         "notes": "SilverKey"
     },
     {
         "id": "6.41.17",
-        "tags": [],
+        "tags": [["LavaCharm"], ["GoldKey", "Hammer"]],
         "notes": "Treasure"
     },
     {
@@ -986,12 +986,12 @@
     },
     {
         "id": "6.48.20",
-        "tags": [],
+        "tags": [["SilverKey", "Hammer"], ["SilverKey", "GoldKey"], ["SilverKey", "LavaCharm", "SilverKey"], ["SilverKey", "WindRing", "Compass", "SilverKey"]],
         "notes": "Gem"
     },
     {
         "id": "6.46.21",
-        "tags": [],
+        "tags": [["SilverKey", "Hammer"], ["SilverKey", "GoldKey"], ["SilverKey", "LavaCharm", "SilverKey"], ["SilverKey", "WindRing", "Compass", "SilverKey"]],
         "notes": "PossumCoin"
     },
     {
@@ -1001,12 +1001,12 @@
     },
     {
         "id": "6.60.22",
-        "tags": [],
+        "tags": [["LavaCharm"]],
         "notes": "Treasure"
     },
     {
         "id": "6.51.23",
-        "tags": [],
+        "tags": [["SilverKey", "Hammer"], ["SilverKey", "GoldKey"], ["SilverKey", "LavaCharm", "SilverKey"], ["SilverKey", "WindRing", "Compass", "SilverKey"]],
         "notes": "PossumCoin"
     },
     {
@@ -1026,17 +1026,17 @@
     },
     {
         "id": "6.49.29",
-        "tags": [],
+        "tags": [["Hammer"], ["LavaCharm"]],
         "notes": "PossumCoin"
     },
     {
         "id": "6.54.30",
-        "tags": [],
+        "tags": [["LavaCharm"]],
         "notes": "PortalStone"
     },
     {
         "id": "6.61.32",
-        "tags": [],
+        "tags": [["Hammer"], ["LavaCharm"]],
         "notes": "GoldKey"
     },
     {
@@ -1086,7 +1086,7 @@
     },
     {
         "id": "6.36.39",
-        "tags": [],
+        "tags": [["LavaCharm"]],
         "notes": "GoldKey"
     },
     {
@@ -1116,7 +1116,7 @@
     },
     {
         "id": "6.39.50",
-        "tags": [],
+        "tags": [["LavaCharm"]],
         "notes": "PossumCoin"
     },
     {
@@ -1126,7 +1126,7 @@
     },
     {
         "id": "6.40.52",
-        "tags": [],
+        "tags": [["LavaCharm"]],
         "notes": "GoldKey"
     },
     {
@@ -1136,17 +1136,17 @@
     },
     {
         "id": "6.42.54",
-        "tags": [],
+        "tags": [["NewGame"]],
         "notes": "Treasure"
     },
     {
         "id": "6.3.55",
-        "tags": [],
+        "tags": [["WindRing"], ["LavaCharm"], ["GoldKey"]],
         "notes": "Sword"
     },
     {
         "id": "6.1.56",
-        "tags": [],
+        "tags": [["WindRing"], ["LavaCharm"], ["GoldKey"]],
         "notes": "PossumCoin"
     },
     {
@@ -1191,7 +1191,7 @@
     },
     {
         "id": "6.32.62",
-        "tags": [],
+        "tags": [["LavaCharm"]],
         "notes": "PossumCoin"
     },
     {
@@ -1201,12 +1201,12 @@
     },
     {
         "id": "6.60.62",
-        "tags": [],
+        "tags": [["LavaCharm"], ["20 Sword"]],
         "notes": "SilverKey"
     },
     {
         "id": "6.61.62",
-        "tags": [],
+        "tags": [["LavaCharm"], ["20 Sword"]],
         "notes": "PossumCoin"
     },
     {
@@ -2450,7 +2450,7 @@
             ["NewGame", "GoldKey", "GoldKey", "GoldKey"],
             ["GoldKey", "GoldKey", "Hammer"],
             ["GoldKey", "GoldKey", "WindRing"],
-            ["GoldKey", "GoldKey", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword"],
+            ["GoldKey", "GoldKey", "13 Sword"],
             ["GoldKey", "GoldKey", "BlueSword"],
             ["GoldKey", "GoldKey", "RedSword"]
         ],
@@ -2472,7 +2472,7 @@
             ["NewGame", "GoldKey", "GoldKey"],
             ["GoldKey", "Hammer"],
             ["GoldKey", "WindRing"],
-            ["GoldKey", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword", "Sword"],
+            ["GoldKey", "13 Sword"],
             ["GoldKey", "BlueSword"],
             ["GoldKey", "RedSword"]
         ],

@@ -5,7 +5,7 @@ This repository documents the requirements to reach each item location in Hero's
 ```json
 {
     "id": "12.24.31",
-    "tags": [["Hammer"], ["SilverKey", "Compass"]],
+    "tags": [["Hammer"], ["SilverKey", "Compass"], ["10 Sword"]],
     "notes": "hi im a stupid note"
 }
 ```
@@ -16,7 +16,14 @@ This repository documents the requirements to reach each item location in Hero's
 
 Valid tags: `Hammer`, `Boots`, `Compass`, `Spectacles`, `LavaCharm`, `WindRing`, `BlueSword`, `BlueShield`, `RedSword`, `RedShield`, `SilverKey`, `GoldKey`, `RedKey`, `GreenKey`, `BlueKey`, `TealKey`, `PurpleKey`, `SkeletonKey`, `Sword`, `PortalStone`, `Gem`, `Treasure`, `ShrineKey`
 
+If the first character of a tag is numeric, it specifies the amount needed in the format `<amount> <tag>`.
+
 `notes` are optional
+
+# Assumptions for simplicity
+
+- The starting point is normal and all portals and transitions connect as usual
+- Gold Sword, Shields and Stopwatches are not shuffled (so they may be used from their normal locations)
 
 # TODO
 
