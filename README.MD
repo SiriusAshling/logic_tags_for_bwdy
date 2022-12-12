@@ -27,7 +27,7 @@ If the first character of a tag is numeric, it specifies the amount needed in th
 
 # Progress
 
-- [ ] DustShelf
+- [x] DustShelf
 - [ ] ThroneRoom
 - [ ] ExplodingThroneRoom
 - [ ] CastleRuins
