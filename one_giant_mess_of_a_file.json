@@ -1211,7 +1211,7 @@
     },
     {
         "id": "7.12.1",
-        "tags": [],
+        "tags": [["WindRing"], ["LavaCharm"], ["GoldKey"]],
         "notes": "PossumCoin"
     },
     {
@@ -1221,7 +1221,7 @@
     },
     {
         "id": "7.1.3",
-        "tags": [],
+        "tags": [["WindRing"], ["LavaCharm"], ["GoldKey"]],
         "notes": "PossumCoin"
     },
     {
@@ -1236,7 +1236,7 @@
     },
     {
         "id": "7.11.6",
-        "tags": [],
+        "tags": [["WindRing"], ["LavaCharm"], ["GoldKey"]],
         "notes": "GoldKey"
     },
     {
@@ -1251,7 +1251,7 @@
     },
     {
         "id": "7.4.11",
-        "tags": [],
+        "tags": [["WindRing"], ["LavaCharm"], ["GoldKey"]],
         "notes": "PossumCoin"
     },
     {
@@ -1266,12 +1266,12 @@
     },
     {
         "id": "7.9.13",
-        "tags": [],
+        "tags": [["WindRing"], ["LavaCharm"], ["GoldKey"]],
         "notes": "Treasure"
     },
     {
         "id": "7.20.15",
-        "tags": [],
+        "tags": [["SilverKey"]],
         "notes": "Sword"
     },
     {
@@ -1311,7 +1311,7 @@
     },
     {
         "id": "7.59.23",
-        "tags": [],
+        "tags": [["WindRing"], ["GoldKey"]],
         "notes": "Gem"
     },
     {
@@ -1326,7 +1326,7 @@
     },
     {
         "id": "7.14.25",
-        "tags": [],
+        "tags": [["WindRing"]],
         "notes": "PossumCoin"
     },
     {
@@ -1341,7 +1341,7 @@
     },
     {
         "id": "7.30.27",
-        "tags": [],
+        "tags": [["GoldKey"]],
         "notes": "SilverKey"
     },
     {
@@ -1371,7 +1371,7 @@
     },
     {
         "id": "7.55.32",
-        "tags": [],
+        "tags": [["Hammer"], ["WindRing"], ["SilverKey"]],
         "notes": "Gem"
     },
     {
@@ -1381,7 +1381,7 @@
     },
     {
         "id": "7.47.33",
-        "tags": [],
+        "tags": [["Hammer"], ["WindRing"], ["SilverKey"]],
         "notes": "Sword"
     },
     {
@@ -1396,7 +1396,7 @@
     },
     {
         "id": "7.17.35",
-        "tags": [],
+        "tags": [["NewGame"], ["Hammer"], ["WindRing"], ["GoldKey"]],
         "notes": "Sword"
     },
     {
@@ -1411,12 +1411,12 @@
     },
     {
         "id": "7.17.38",
-        "tags": [],
+        "tags": [["NewGame"], ["Hammer"], ["WindRing"], ["GoldKey"]],
         "notes": "PossumCoin"
     },
     {
         "id": "7.11.39",
-        "tags": [],
+        "tags": [["NewGame"], ["Hammer"], ["WindRing"], ["GoldKey"]],
         "notes": "GoldKey"
     },
     {
@@ -1441,7 +1441,7 @@
     },
     {
         "id": "7.35.45",
-        "tags": [],
+        "tags": [["WindRing"], ["GoldKey"]],
         "notes": "Sword"
     },
     {
@@ -1471,7 +1471,7 @@
     },
     {
         "id": "7.62.50",
-        "tags": [],
+        "tags": [["WindRing"]],
         "notes": "PossumCoin"
     },
     {
@@ -1486,7 +1486,7 @@
     },
     {
         "id": "7.61.53",
-        "tags": [],
+        "tags": [["WindRing"]],
         "notes": "PossumCoin"
     },
     {
@@ -1521,12 +1521,12 @@
     },
     {
         "id": "7.43.61",
-        "tags": [],
+        "tags": [["WindRing"], ["SilverKey"]],
         "notes": "SilverKey"
     },
     {
         "id": "7.17.62",
-        "tags": [],
+        "tags": [["WindRing"]],
         "notes": "PossumCoin"
     },
     {

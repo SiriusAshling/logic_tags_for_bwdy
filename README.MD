@@ -17,3 +17,7 @@ This repository documents the requirements to reach each item location in Hero's
 Valid tags: `Hammer`, `Boots`, `Compass`, `Spectacles`, `LavaCharm`, `WindRing`, `BlueSword`, `BlueShield`, `RedSword`, `RedShield`, `SilverKey`, `GoldKey`, `RedKey`, `GreenKey`, `BlueKey`, `TealKey`, `PurpleKey`, `SkeletonKey`, `Sword`, `PortalStone`, `Gem`, `Treasure`, `ShrineKey`
 
 `notes` are optional
+
+# TODO
+
+Logic for Orange Crystal, Mirror
