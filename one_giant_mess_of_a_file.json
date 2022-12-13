@@ -1201,12 +1201,12 @@
     },
     {
         "id": "6.60.62",
-        "tags": [["LavaCharm"], ["20 Sword"]],
+        "tags": [["LavaCharm"], ["NewGame", "20 Sword"], ["NewGamePlus", "20 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "SilverKey"
     },
     {
         "id": "6.61.62",
-        "tags": [["LavaCharm"], ["20 Sword"]],
+        "tags": [["LavaCharm"], ["NewGame", "20 Sword"], ["NewGamePlus", "20 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "PossumCoin"
     },
     {
@@ -2450,7 +2450,7 @@
             ["NewGame", "GoldKey", "GoldKey", "GoldKey"],
             ["GoldKey", "GoldKey", "Hammer"],
             ["GoldKey", "GoldKey", "WindRing"],
-            ["GoldKey", "GoldKey", "13 Sword"],
+            ["GoldKey", "GoldKey", "NewGame", "13 Sword"], ["GoldKey", "GoldKey", "NewGamePlus", "13 Sword"], ["GoldKey", "GoldKey", "50 Sword"],
             ["GoldKey", "GoldKey", "BlueSword"],
             ["GoldKey", "GoldKey", "RedSword"]
         ],
@@ -2472,7 +2472,7 @@
             ["NewGame", "GoldKey", "GoldKey"],
             ["GoldKey", "Hammer"],
             ["GoldKey", "WindRing"],
-            ["GoldKey", "13 Sword"],
+            ["GoldKey", "NewGame", "13 Sword"], ["GoldKey", "NewGamePlus", "13 Sword"], ["GoldKey", "50 Sword"],
             ["GoldKey", "BlueSword"],
             ["GoldKey", "RedSword"]
         ],
@@ -6083,9 +6083,10 @@
     {
         "id": "35.15.20",
         "tags": [
-            ["GoldKey", "SilverKey", "WindRing", "Hammer", "LavaCharm", "Compass", "23 Sword", "BlueBoots"],
+            ["GoldKey", "SilverKey", "WindRing", "Hammer", "LavaCharm", "Compass", "NewGame", "23 Sword", "BlueBoots"],
             ["GoldKey", "SilverKey", "WindRing", "Hammer", "LavaCharm", "NewGamePlus", "23 Sword", "BlueBoots"],
-            ["GoldKey", "SilverKey", "WindRing", "Hammer", "LavaCharm", "Compass", "65 Sword"],
+            ["GoldKey", "SilverKey", "WindRing", "Hammer", "LavaCharm", "Compass", "50 Sword", "BlueBoots"],
+            ["GoldKey", "SilverKey", "WindRing", "Hammer", "LavaCharm", "Compass", "NewGame", "65 Sword"],
             ["GoldKey", "SilverKey", "WindRing", "Hammer", "LavaCharm", "NewGamePlus", "65 Sword"],
             ["GoldKey", "SilverKey", "WindRing", "Hammer", "LavaCharm", "Compass", "BlueSword"],
             ["GoldKey", "SilverKey", "WindRing", "Hammer", "LavaCharm", "NewGamePlus", "BlueSword"],
