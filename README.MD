@@ -36,14 +36,14 @@ If the first character of a tag is numeric, it specifies the amount needed in th
 - [ ] CastleRuins
 - [x] NorthMundeman
 - [x] SouthMundeman
-- [ ] VerdantCoast
+- [x] VerdantCoast
 - [ ] OtherworldArena
 - [x] CastleGrounds
 - [ ] Sanctuary
 - [x] TheTunnels
 - [ ] Luddershore
 - [x] TheTundra
-- [ ] FrozenShore
+- [x] FrozenShore
 - [x] HallowGround
 - [x] SouthernSwamp
 - [ ] DragonsLair
