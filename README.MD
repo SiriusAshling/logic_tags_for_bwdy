@@ -69,4 +69,3 @@ Since there's a P-Coin in the Coin Shop (`8.114.120`) and by the save format ite
 
 # TODO
 Turn empty tag arrays two dimensional
-Check Hallow Ground again with the newfound options while pathing Frozen Shore
