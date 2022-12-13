@@ -27,6 +27,7 @@ If the first character of a tag is numeric, it specifies the amount needed in th
 - The starting point is normal and all portals and transitions connect as usual
 - Gold Sword, Shields and Stopwatches are not shuffled (so they may be used from their normal locations)
 - Hearts are not shuffled (can add this without much overhead, just saving work for now)
+- Silver and Gold Doors aren't mapped (technically they should be, but it's a lot of extra work to avoid a type of softlock that probably will never happen anyway)
 
 # Progress
 
@@ -41,7 +42,7 @@ If the first character of a tag is numeric, it specifies the amount needed in th
 - [x] CastleGrounds
 - [ ] Sanctuary
 - [x] TheTunnels
-- [ ] Luddershore
+- [x] Luddershore
 - [x] TheTundra
 - [x] FrozenShore
 - [x] HallowGround
@@ -65,7 +66,7 @@ If the first character of a tag is numeric, it specifies the amount needed in th
 It has been assumed that the player has no global progress.
 
 Coin Shop items aren't really normal items and don't fit that well into the id concept, also feel like shuffling them might not be desirable.
-Since there's a P-Coin in the Coin Shop (`8.114.120`) and by the save format items are guaranteed to not move, could just hack to use that P-Coins logic in combination with the player's current Coin count to determine whether the player can buy shop coin items. But really, the coin shop items don't do much anyway and probably are never logically relevant.
+Since there's a P-Coin in the Coin Shop (`8.114.120`) and by the save format items are guaranteed to not move, could just hack to use that P-Coins logic in combination with the player's current Coin count to determine whether the player can buy shop coin items (either requiring 250 for any to avoid softlocks or enforcing a purchase order).
 
 # TODO
 Turn empty tag arrays two dimensional
