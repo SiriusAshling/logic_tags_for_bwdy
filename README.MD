@@ -18,7 +18,7 @@ Valid tags: `Hammer`, `Boots`, `Compass`, `Spectacles`, `LavaCharm`, `WindRing`,
 
 Using `UnderworldKey` implies `NewGamePlus`.
 
-If the first character of a tag is numeric, it specifies the amount needed in the format `<amount> <tag>`.
+If the first character of a tag is numeric, it specifies the amount needed in the format `<amount> <tag>`. It is still valid for a tag to appear multiple times like `GoldKey, GoldKey`, in which case it should be treated as requiring multiple.
 
 `notes` are optional
 
@@ -62,8 +62,11 @@ If the first character of a tag is numeric, it specifies the amount needed in th
 
 # Notes
 
+It has been assumed that the player has no global progress.
+
 Coin Shop items aren't really normal items and don't fit that well into the id concept, also feel like shuffling them might not be desirable.
 Since there's a P-Coin in the Coin Shop (`8.114.120`) and by the save format items are guaranteed to not move, could just hack to use that P-Coins logic in combination with the player's current Coin count to determine whether the player can buy shop coin items. But really, the coin shop items don't do much anyway and probably are never logically relevant.
 
 # TODO
-Paths using Swords have to change in NG++
+Turn empty tag arrays two dimensional
+Check Hallow Ground again with the newfound options while pathing Frozen Shore
