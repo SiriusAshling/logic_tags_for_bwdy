@@ -1541,7 +1541,7 @@
     },
     {
         "id": "8.6.1",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "Treasure"
     },
     {
@@ -1556,7 +1556,7 @@
     },
     {
         "id": "8.51.1",
-        "tags": [],
+        "tags": [["GoldKey"]],
         "notes": "PortalStone"
     },
     {
@@ -1571,7 +1571,7 @@
     },
     {
         "id": "8.8.2",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "PortalStone"
     },
     {
@@ -1586,27 +1586,27 @@
     },
     {
         "id": "8.71.2",
-        "tags": [],
+        "tags": [["GoldKey"]],
         "notes": "PossumCoin"
     },
     {
         "id": "8.119.2",
-        "tags": [],
+        "tags": [["Hammer"], ["WindRing"]],
         "notes": "PossumCoin"
     },
     {
         "id": "8.4.3",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "Sword"
     },
     {
         "id": "8.13.4",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "PortalStone"
     },
     {
         "id": "8.17.4",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "Treasure"
     },
     {
@@ -1626,17 +1626,17 @@
     },
     {
         "id": "8.1.7",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "PossumCoin"
     },
     {
         "id": "8.91.7",
-        "tags": [],
+        "tags": [["GoldKey"]],
         "notes": "PortalStone"
     },
     {
         "id": "8.60.8",
-        "tags": [],
+        "tags": [["GoldKey", "Compass", "50 Sword"], ["GoldKey", "Compass", "BlueSword"], ["GoldKey", "Compass", "RedSword"]],
         "notes": "ShrineKey"
     },
     {
@@ -1646,7 +1646,7 @@
     },
     {
         "id": "8.16.9",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "Gem"
     },
     {
@@ -1666,7 +1666,7 @@
     },
     {
         "id": "8.14.11",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "Treasure"
     },
     {
@@ -1676,7 +1676,7 @@
     },
     {
         "id": "8.88.11",
-        "tags": [],
+        "tags": [["GoldKey"]],
         "notes": "SilverKey"
     },
     {
@@ -1686,7 +1686,7 @@
     },
     {
         "id": "8.3.15",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "Sword"
     },
     {
@@ -1701,7 +1701,7 @@
     },
     {
         "id": "8.55.15",
-        "tags": [],
+        "tags": [["GoldKey"]],
         "notes": "Treasure"
     },
     {
@@ -1711,7 +1711,7 @@
     },
     {
         "id": "8.119.16",
-        "tags": [],
+        "tags": [["WindRing"]],
         "notes": "Treasure"
     },
     {
@@ -1731,7 +1731,7 @@
     },
     {
         "id": "8.7.20",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "PossumCoin"
     },
     {
@@ -1751,7 +1751,7 @@
     },
     {
         "id": "8.65.22",
-        "tags": [],
+        "tags": [["GoldKey"]],
         "notes": "PortalStone"
     },
     {
@@ -1761,7 +1761,7 @@
     },
     {
         "id": "8.2.24",
-        "tags": [],
+        "tags": [["GoldKey", "NewGame", "GoldKey"], ["GoldKey", "Hammer"], ["GoldKey", "WindRing"], ["GoldKey", "NewGame", "13 Sword"], ["GoldKey", "NewGamePlus", "13 Sword"], ["GoldKey", "50 Sword"], ["GoldKey", "BlueSword"], ["GoldKey", "RedSword"]],
         "notes": "Sword"
     },
     {
@@ -1771,22 +1771,22 @@
     },
     {
         "id": "8.7.27",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "GoldKey"
     },
     {
         "id": "8.20.29",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "Treasure"
     },
     {
         "id": "8.71.30",
-        "tags": [],
+        "tags": [["GoldKey", "NewGame", "GoldKey"], ["GoldKey", "Hammer"], ["GoldKey", "WindRing"], ["GoldKey", "NewGame", "13 Sword"], ["GoldKey", "NewGamePlus", "13 Sword"], ["GoldKey", "50 Sword"], ["GoldKey", "BlueSword"], ["GoldKey", "RedSword"]],
         "notes": "Treasure"
     },
     {
         "id": "8.67.31",
-        "tags": [],
+        "tags": [["GoldKey", "NewGame", "GoldKey"], ["GoldKey", "Hammer"], ["GoldKey", "WindRing"], ["GoldKey", "NewGame", "13 Sword"], ["GoldKey", "NewGamePlus", "13 Sword"], ["GoldKey", "50 Sword"], ["GoldKey", "BlueSword"], ["GoldKey", "RedSword"]],
         "notes": "Gem"
     },
     {
@@ -1801,22 +1801,22 @@
     },
     {
         "id": "8.3.33",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "PortalStone"
     },
     {
         "id": "8.21.34",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "Sword"
     },
     {
         "id": "8.66.34",
-        "tags": [],
+        "tags": [["GoldKey", "NewGame", "GoldKey"], ["GoldKey", "Hammer"], ["GoldKey", "WindRing"], ["GoldKey", "NewGame", "13 Sword"], ["GoldKey", "NewGamePlus", "13 Sword"], ["GoldKey", "50 Sword"], ["GoldKey", "BlueSword"], ["GoldKey", "RedSword"]],
         "notes": "PortalStone"
     },
     {
         "id": "8.80.36",
-        "tags": [],
+        "tags": [["SilverKey", "NewGame", "GoldKey"], ["SilverKey", "Hammer"], ["SilverKey", "WindRing"], ["SilverKey", "NewGame", "13 Sword"], ["SilverKey", "NewGamePlus", "13 Sword"], ["SilverKey", "50 Sword"], ["SilverKey", "BlueSword"], ["SilverKey", "RedSword"]],
         "notes": "Treasure"
     },
     {
@@ -1836,12 +1836,12 @@
     },
     {
         "id": "8.18.39",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "Gem"
     },
     {
         "id": "8.25.40",
-        "tags": [],
+        "tags": [["SilverKey", "NewGame", "GoldKey"], ["SilverKey", "Hammer"], ["SilverKey", "WindRing"], ["SilverKey", "NewGame", "13 Sword"], ["SilverKey", "NewGamePlus", "13 Sword"], ["SilverKey", "50 Sword"], ["SilverKey", "BlueSword"], ["SilverKey", "RedSword"]],
         "notes": "PossumCoin"
     },
     {
@@ -1851,7 +1851,7 @@
     },
     {
         "id": "8.73.40",
-        "tags": [],
+        "tags": [["GoldKey", "NewGame", "GoldKey"], ["GoldKey", "Hammer"], ["GoldKey", "WindRing"], ["GoldKey", "NewGame", "13 Sword"], ["GoldKey", "NewGamePlus", "13 Sword"], ["GoldKey", "50 Sword"], ["GoldKey", "BlueSword"], ["GoldKey", "RedSword"]],
         "notes": "Treasure"
     },
     {
@@ -1861,7 +1861,7 @@
     },
     {
         "id": "8.24.42",
-        "tags": [],
+        "tags": [["SilverKey", "NewGame", "GoldKey"], ["SilverKey", "Hammer"], ["SilverKey", "WindRing"], ["SilverKey", "NewGame", "13 Sword"], ["SilverKey", "NewGamePlus", "13 Sword"], ["SilverKey", "50 Sword"], ["SilverKey", "BlueSword"], ["SilverKey", "RedSword"]],
         "notes": "Treasure"
     },
     {
@@ -1876,7 +1876,7 @@
     },
     {
         "id": "8.24.45",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "PortalStone"
     },
     {
@@ -1886,7 +1886,7 @@
     },
     {
         "id": "8.29.47",
-        "tags": [],
+        "tags": [["SilverKey", "NewGame", "GoldKey"], ["SilverKey", "Hammer"], ["SilverKey", "WindRing"], ["SilverKey", "NewGame", "13 Sword"], ["SilverKey", "NewGamePlus", "13 Sword"], ["SilverKey", "50 Sword"], ["SilverKey", "BlueSword"], ["SilverKey", "RedSword"]],
         "notes": "SilverKey"
     },
     {
@@ -1916,7 +1916,7 @@
     },
     {
         "id": "8.29.61",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "GoldKey"
     },
     {
@@ -1936,7 +1936,7 @@
     },
     {
         "id": "8.41.66",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "SilverKey"
     },
     {
@@ -1961,12 +1961,12 @@
     },
     {
         "id": "8.51.75",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "SilverKey"
     },
     {
         "id": "8.32.76",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "Gem"
     },
     {
@@ -1976,12 +1976,12 @@
     },
     {
         "id": "8.80.77",
-        "tags": [],
+        "tags": [["SilverKey", "NewGame", "GoldKey"], ["SilverKey", "Hammer"], ["SilverKey", "WindRing"], ["SilverKey", "NewGame", "13 Sword"], ["SilverKey", "NewGamePlus", "13 Sword"], ["SilverKey", "50 Sword"], ["SilverKey", "BlueSword"], ["SilverKey", "RedSword"]],
         "notes": "Treasure"
     },
     {
         "id": "8.46.78",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "Treasure"
     },
     {
@@ -1991,52 +1991,52 @@
     },
     {
         "id": "8.80.78",
-        "tags": [],
+        "tags": [["SilverKey", "NewGame", "GoldKey"], ["SilverKey", "Hammer"], ["SilverKey", "WindRing"], ["SilverKey", "NewGame", "13 Sword"], ["SilverKey", "NewGamePlus", "13 Sword"], ["SilverKey", "50 Sword"], ["SilverKey", "BlueSword"], ["SilverKey", "RedSword"]],
         "notes": "Treasure"
     },
     {
         "id": "8.36.79",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "SilverKey"
     },
     {
         "id": "8.44.79",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "Treasure"
     },
     {
         "id": "8.69.79",
-        "tags": [],
+        "tags": [["SilverKey", "NewGame", "GoldKey"], ["SilverKey", "Hammer"], ["SilverKey", "WindRing"], ["SilverKey", "NewGame", "13 Sword"], ["SilverKey", "NewGamePlus", "13 Sword"], ["SilverKey", "50 Sword"], ["SilverKey", "BlueSword"], ["SilverKey", "RedSword"]],
         "notes": "SilverKey"
     },
     {
         "id": "8.60.81",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "Sword"
     },
     {
         "id": "8.42.82",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "PortalStone"
     },
     {
         "id": "8.56.82",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "Treasure"
     },
     {
         "id": "8.72.83",
-        "tags": [],
+        "tags": [["SilverKey", "NewGame", "GoldKey"], ["SilverKey", "Hammer"], ["SilverKey", "WindRing"], ["SilverKey", "NewGame", "13 Sword"], ["SilverKey", "NewGamePlus", "13 Sword"], ["SilverKey", "50 Sword"], ["SilverKey", "BlueSword"], ["SilverKey", "RedSword"]],
         "notes": "Treasure"
     },
     {
         "id": "8.81.83",
-        "tags": [],
+        "tags": [["SilverKey", "NewGame", "GoldKey"], ["SilverKey", "Hammer"], ["SilverKey", "WindRing"], ["SilverKey", "NewGame", "13 Sword"], ["SilverKey", "NewGamePlus", "13 Sword"], ["SilverKey", "50 Sword"], ["SilverKey", "BlueSword"], ["SilverKey", "RedSword"]],
         "notes": "PossumCoin"
     },
     {
         "id": "8.53.87",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "SilverKey"
     },
     {
@@ -2051,57 +2051,57 @@
     },
     {
         "id": "8.80.88",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "SilverKey"
     },
     {
         "id": "8.65.91",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "PossumCoin"
     },
     {
         "id": "8.91.91",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "Treasure"
     },
     {
         "id": "8.99.91",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "SilverKey"
     },
     {
         "id": "8.88.93",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "PortalStone"
     },
     {
         "id": "8.67.94",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "GoldKey"
     },
     {
         "id": "8.72.94",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "PossumCoin"
     },
     {
         "id": "8.75.96",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "Treasure"
     },
     {
         "id": "8.67.98",
-        "tags": [],
+        "tags": [["GoldKey", "NewGame", "GoldKey"], ["GoldKey", "Hammer"], ["GoldKey", "WindRing"], ["GoldKey", "NewGame", "13 Sword"], ["GoldKey", "NewGamePlus", "13 Sword"], ["GoldKey", "50 Sword"], ["GoldKey", "BlueSword"], ["GoldKey", "RedSword"]],
         "notes": "SilverKey"
     },
     {
         "id": "8.90.100",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "Gem"
     },
     {
         "id": "8.72.101",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "SilverKey"
     },
     {
@@ -2111,12 +2111,12 @@
     },
     {
         "id": "8.70.107",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "Gem"
     },
     {
         "id": "8.58.108",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "GoldKey"
     },
     {
@@ -2126,12 +2126,12 @@
     },
     {
         "id": "8.69.112",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "Treasure"
     },
     {
         "id": "8.114.120",
-        "tags": [],
+        "tags": [["NewGame", "GoldKey"], ["Hammer"], ["WindRing"], ["NewGame", "13 Sword"], ["NewGamePlus", "13 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "PossumCoin"
     },
     {

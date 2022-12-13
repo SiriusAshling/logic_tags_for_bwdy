@@ -59,3 +59,11 @@ If the first character of a tag is numeric, it specifies the amount needed in th
 - [x] HauntedManse
 - [ ] SmugglersRoad
 - [ ] SmugglersRuin
+
+# Notes
+
+Coin Shop items aren't really normal items and don't fit that well into the id concept, also feel like shuffling them might not be desirable.
+Since there's a P-Coin in the Coin Shop (`8.114.120`) and by the save format items are guaranteed to not move, could just hack to use that P-Coins logic in combination with the player's current Coin count to determine whether the player can buy shop coin items. But really, the coin shop items don't do much anyway and probably are never logically relevant.
+
+# TODO
+Paths using Swords have to change in NG++
