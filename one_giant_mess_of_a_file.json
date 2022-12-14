@@ -5289,7 +5289,7 @@
     },
     {
         "id": "21.77.3",
-        "tags": [["30 Swords"]],
+        "tags": [["30 Swords"], ["NewGamePlusPlus", "50 Swords"], ["NewGamePlusPlus", "BlueSword"], ["NewGamePlusPlus", "RedSword"]],
         "notes": "PortalStone"
     },
     {
@@ -5349,12 +5349,12 @@
     },
     {
         "id": "21.19.16",
-        "tags": [["30 Swords"]],
+        "tags": [["30 Swords"], ["NewGamePlusPlus", "50 Swords"], ["NewGamePlusPlus", "BlueSword"], ["NewGamePlusPlus", "RedSword"]],
         "notes": "PortalStone"
     },
     {
         "id": "21.16.17",
-        "tags": [["30 Swords"]],
+        "tags": [["30 Swords"], ["NewGamePlusPlus", "50 Swords"], ["NewGamePlusPlus", "BlueSword"], ["NewGamePlusPlus", "RedSword"]],
         "notes": "PossumCoin"
     },
     {
