@@ -5368,7 +5368,7 @@
     },
     {
         "id": "21.77.3",
-        "tags": [["33 Sword", "NewGame"], ["33 Sword", "NewGamePlus"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
+        "tags": [["33 Sword", "NewGame"], ["33 Sword", "NewGamePlus"], ["50 Sword"], ["BlueSword"], ["RedSword"], ["RedShield"]],
         "notes": "PortalStone"
     },
     {
@@ -5768,27 +5768,27 @@
     },
     {
         "id": "23.36.4",
-        "tags": [],
+        "tags": [["NewGamePlus", "9 UnderworldKey", "BlueSword"], ["NewGamePlus","9 UnderworldKey", "RedSword"], ["NewGamePlusPlus", "9 UnderworldKey", "BlueSword"], ["NewGamePlusPlus", "9 UnderworldKey", "RedSword"]],
         "notes": "Treasure"
     },
     {
         "id": "23.37.11",
-        "tags": [],
+        "tags": [["NewGamePlus", "9 UnderworldKey", "BlueSword"], ["NewGamePlus","9 UnderworldKey", "RedSword"], ["NewGamePlusPlus", "9 UnderworldKey", "BlueSword"], ["NewGamePlusPlus", "9 UnderworldKey", "RedSword"]],
         "notes": "RedSword"
     },
     {
         "id": "23.41.11",
-        "tags": [],
+        "tags": [["NewGamePlus", "9 UnderworldKey", "BlueSword"], ["NewGamePlus","9 UnderworldKey", "RedSword"], ["NewGamePlusPlus", "9 UnderworldKey", "BlueSword"], ["NewGamePlusPlus", "9 UnderworldKey", "RedSword"]],
         "notes": "RedShield"
     },
     {
         "id": "23.97.18",
-        "tags": [],
+        "tags": [["NewGamePlus"], ["NewGamePlusPlus"]],
         "notes": "LavaCharm"
     },
     {
         "id": "23.40.107",
-        "tags": [],
+        "tags": [["NewGamePlus", "WindRing"], ["NewGamePlusplus", "WindRing"]]
         "notes": "Boots"
     },
     {
