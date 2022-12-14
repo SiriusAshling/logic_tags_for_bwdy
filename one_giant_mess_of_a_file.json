@@ -5879,7 +5879,7 @@
     },
     {
         "id": "26.53.1",
-        "tags": [],
+        "tags": [["LavaCharm"]],
         "notes": "Treasure"
     },
     {
@@ -5899,7 +5899,7 @@
     },
     {
         "id": "26.74.3",
-        "tags": [],
+        "tags": [["LavaCharm"]],
         "notes": "PossumCoin"
     },
     {
@@ -5909,12 +5909,18 @@
     },
     {
         "id": "26.84.4",
-        "tags": [],
+        "tags": [["LavaCharm"]],
         "notes": "PossumCoin"
     },
     {
         "id": "26.43.5",
-        "tags": [],
+        "tags": [
+            ["LavaCharm"],
+            ["GoldKey", "GoldKey", "NewGame"], ["GoldKey", "GoldKey", "Hammer"], ["GoldKey", "GoldKey", "GoldKey"], ["GoldKey", "GoldKey", "WindRing", "UnderworldKey"], ["GoldKey", "GoldKey", "Mirror", "20 PortalStone"],
+            ["GoldKey", "WindRing", "SilverKey", "Hammer"], ["GoldKey", "WindRing", "SilverKey", "GoldKey"], ["GoldKey", "WindRing", "Compass"],
+            ["GoldKey", "Mirror", "10 PortalStone", "Hammer"],
+            ["GoldKey", "NewGamePlus", "Hammer"]
+        ],
         "notes": "Sword"
     },
     {
@@ -6049,7 +6055,7 @@
     },
     {
         "id": "26.89.53",
-        "tags": [],
+        "tags": [["GoldKey"]],
         "notes": "Gem"
     },
     {
@@ -6069,7 +6075,7 @@
     },
     {
         "id": "26.7.57",
-        "tags": [],
+        "tags": [["LavaCharm"]],
         "notes": "Treasure"
     },
     {
@@ -6079,7 +6085,7 @@
     },
     {
         "id": "26.77.57",
-        "tags": [],
+        "tags": [["NewGame", "38 Sword"], ["NewGamePlus", "38 Sword"], ["50 Sword"], ["BlueSword"], ["RedSword"]],
         "notes": "GoldKey"
     },
     {
@@ -6094,7 +6100,7 @@
     },
     {
         "id": "26.86.60",
-        "tags": [],
+        "tags": [["GoldKey"]],
         "notes": "Gem"
     },
     {
@@ -6154,12 +6160,16 @@
     },
     {
         "id": "26.10.91",
-        "tags": [],
+        "tags": [["LavaCharm"]],
         "notes": "PossumCoin"
     },
     {
         "id": "26.43.93",
-        "tags": [],
+        "tags": [
+            ["LavaCharm"],
+            ["GoldKey", "Hammer"], ["GoldKey", "NewGamePlus", "WindRing"],
+            ["GoldKey", "Mirror", "20 PortalStone", "GoldKey", "SilverKey", "GoldKey"], ["GoldKey", "Mirror", "20 PortalStone", "GoldKey" ,"WindRing"]
+        ],
         "notes": "GoldKey"
     },
     {
@@ -6169,17 +6179,17 @@
     },
     {
         "id": "26.4.95",
-        "tags": [],
+        "tags": [["LavaCharm"]],
         "notes": "PossumCoin"
     },
     {
         "id": "26.15.95",
-        "tags": [],
+        "tags": [["LavaCharm"]],
         "notes": "PortalStone"
     },
     {
         "id": "26.61.95",
-        "tags": [],
+        "tags": [["LavaCharm"]],
         "notes": "GoldKey"
     },
     {

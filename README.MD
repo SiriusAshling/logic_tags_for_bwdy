@@ -22,6 +22,8 @@ If the first character of a tag is numeric, it specifies the amount needed in th
 
 `notes` are optional
 
+The goal for now is to map all permanent collectibles as well as Underworld doors and Portals
+
 # Assumptions for simplicity
 
 - The starting point is normal and all portals and transitions connect as usual
@@ -70,3 +72,5 @@ Since there's a P-Coin in the Coin Shop (`8.114.120`) and by the save format ite
 
 # TODO
 Turn empty tag arrays two dimensional
+add underworld doors
+add portal "doors"
