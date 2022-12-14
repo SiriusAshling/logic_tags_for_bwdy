@@ -50,9 +50,9 @@ The goal for now is to map all permanent collectibles as well as Underworld door
 - [x] HallowGround
 - [x] SouthernSwamp
 - [x] DragonsLair
-- [ ] CorruptedCastle
-- [ ] CastleMonillud
-- [ ] TheUnderworld
+- [x] CorruptedCastle
+- [x] CastleMonillud
+- [x] TheUnderworld
 - [x] Otherworld
 - [x] MoltenCavern
 - [ ] TheDungeons
