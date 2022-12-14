@@ -40,7 +40,7 @@ The goal for now is to map all permanent collectibles as well as Underworld door
 - [x] NorthMundeman
 - [x] SouthMundeman
 - [x] VerdantCoast
-- [ ] OtherworldArena
+- [x] OtherworldArena
 - [x] CastleGrounds
 - [ ] Sanctuary
 - [x] TheTunnels
@@ -74,3 +74,4 @@ Since there's a P-Coin in the Coin Shop (`8.114.120`) and by the save format ite
 Turn empty tag arrays two dimensional
 add underworld doors
 add portal "doors"
+blue/red shield alternatives for sword paths?

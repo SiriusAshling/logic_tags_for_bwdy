@@ -2154,27 +2154,36 @@
     },
     {
         "id": "9.4.16",
-        "tags": [],
+        "tags": [["2 SilverKey", "Hammer", "Compass", "WindRing", "LavaCharm"], ["2 SilverKey", "Hammer", "Compass", "WindRing", "OrangeCrystal"]],
         "notes": "PossumCoin"
     },
     {
         "id": "9.43.16",
-        "tags": [],
+        "tags": [["2 SilverKey", "Hammer", "Compass", "WindRing", "LavaCharm"], ["2 SilverKey", "Hammer", "Compass", "WindRing", "OrangeCrystal"]],
         "notes": "PossumCoin"
     },
     {
         "id": "9.4.31",
-        "tags": [],
+        "tags": [["2 SilverKey", "Hammer", "Compass", "WindRing", "LavaCharm"], ["2 SilverKey", "Hammer", "Compass", "WindRing", "OrangeCrystal"]],
         "notes": "PossumCoin"
     },
     {
         "id": "9.43.31",
-        "tags": [],
+        "tags": [["2 SilverKey", "Hammer", "Compass", "WindRing", "LavaCharm"], ["2 SilverKey", "Hammer", "Compass", "WindRing", "OrangeCrystal"]],
         "notes": "PossumCoin"
     },
     {
         "id": "9.24.46",
-        "tags": [],
+        "tags": [
+            ["2 SilverKey", "Hammer", "Compass", "WindRing", "LavaCharm", "50 Sword"],
+            ["2 SilverKey", "Hammer", "Compass", "WindRing", "LavaCharm", "BlueSword"],
+            ["2 SilverKey", "Hammer", "Compass", "WindRing", "LavaCharm", "RedSword"],
+            ["2 SilverKey", "Hammer", "Compass", "WindRing", "LavaCharm", "RedShield"],
+            ["2 SilverKey", "Hammer", "Compass", "WindRing", "OrangeCrystal", "50 Sword"],
+            ["2 SilverKey", "Hammer", "Compass", "WindRing", "OrangeCrystal", "BlueSword"],
+            ["2 SilverKey", "Hammer", "Compass", "WindRing", "OrangeCrystal", "RedSword"],
+            ["2 SilverKey", "Hammer", "Compass", "WindRing", "OrangeCrystal", "RedShield"]
+        ],
         "notes": "GemSword"
     },
     {
