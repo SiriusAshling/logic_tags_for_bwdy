@@ -14,7 +14,7 @@ This repository documents the requirements to reach each item location in Hero's
 
 `tags` are a two dimensional array. The outer array connects its elements with OR, the inner array connects its elements with AND. The example above reads as "Hammer OR (Silver Key AND Compass)".
 
-Valid tags: `Hammer`, `Boots`, `Compass`, `Spectacles`, `LavaCharm`, `WindRing`, `BlueSword`, `BlueShield`, `RedSword`, `RedShield`, `SilverKey`, `GoldKey`, `RedKey`, `GreenKey`, `BlueKey`, `TealKey`, `PurpleKey`, `SkeletonKey`, `Sword`, `PortalStone`, `Treasure`, `ShrineKey`, `UnderworldKey`, `OrangeCrystal`, `Carrot`, `Mirror`, `NewGame`, `NewGamePlus`, `GlitchKey`
+Valid tags: `Hammer`, `Boots`, `Compass`, `Spectacles`, `LavaCharm`, `WindRing`, `BlueSword`, `BlueShield`, `RedSword`, `RedShield`, `SilverKey`, `GoldKey`, `RedKey`, `GreenKey`, `BlueKey`, `TealKey`, `PurpleKey`, `SkeletonKey`, `Sword`, `PortalStone`, `Treasure`, `ShrineKey`, `UnderworldKey`, `OrangeCrystal`, `Mirror`, `NewGame`, `NewGamePlus`, `GlitchKey`
 
 Using `UnderworldKey` implies at least `NewGamePlus` (but it may still be needed to specify `NewGamePlus` to express needing the weaker enemies compared to NG++).
 
@@ -67,7 +67,7 @@ The goal for now is to map all permanent collectibles as well as Underworld door
 
 It has been assumed that the player has no global progress.
 
-Coin Shop items aren't really normal items and don't fit that well into the id concept, also feel like shuffling them might not be desirable.
+Coin Shop items aren't in one definitive map position, not sure what to do with those.
 Since there's a P-Coin in the Coin Shop (`8.114.120`) and by the save format items are guaranteed to not move, could just hack to use that P-Coins logic in combination with the player's current Coin count to determine whether the player can buy shop coin items (either requiring 250 for any to avoid softlocks or enforcing a purchase order).
 
 Since gem shop costs are based on the item on offer, gem requirements have not been noted for those.
@@ -76,4 +76,4 @@ Since gem shop costs are based on the item on offer, gem requirements have not b
 Turn empty tag arrays two dimensional
 add underworld doors
 add portal "doors"
-blue/red shield alternatives for sword paths?
+global data things: cats to kill enemies, paths to the eye, paths using the cleared smugglers road, fishing rods and fish
