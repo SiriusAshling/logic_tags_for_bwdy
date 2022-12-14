@@ -5252,32 +5252,32 @@
     },
     {
         "id": "19.15.2",
-        "tags": [],
+        "tags": [["255 Treasure", "20 PortalStone"], ["255 Treasure", "Hammer", "WindRing"]],
         "notes": "PossumCoin"
     },
     {
         "id": "19.9.13",
-        "tags": [],
+        "tags": [["50 Treasure", "20 PortalStone"], ["50 Treasure", "Hammer", "WindRing"]],
         "notes": "SkeletonKey"
     },
     {
         "id": "19.17.13",
-        "tags": [],
+        "tags": [["100 Treasure", "20 PortalStone"], ["100 Treasure", "Hammer", "WindRing"]],
         "notes": "Spectacles"
     },
     {
         "id": "19.21.14",
-        "tags": [],
+        "tags": [["20 PortalStone"], ["Hammer", "WindRing"]],
         "notes": "PossumCoin"
     },
     {
         "id": "19.13.15",
-        "tags": [],
+        "tags": [["250 Treasure", "20 PortalStone"], ["250 Treasure", "Hammer", "WindRing"]],
         "notes": "GemShield"
     },
     {
         "id": "19.17.18",
-        "tags": [],
+        "tags": [["20 PortalStone"], ["Hammer", "WindRing"]],
         "notes": "Treasure"
     },
     {

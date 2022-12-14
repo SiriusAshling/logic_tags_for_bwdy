@@ -49,7 +49,7 @@ The goal for now is to map all permanent collectibles as well as Underworld door
 - [x] FrozenShore
 - [x] HallowGround
 - [x] SouthernSwamp
-- [ ] DragonsLair
+- [x] DragonsLair
 - [ ] CorruptedCastle
 - [ ] CastleMonillud
 - [ ] TheUnderworld
