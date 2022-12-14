@@ -14,7 +14,7 @@ This repository documents the requirements to reach each item location in Hero's
 
 `tags` are a two dimensional array. The outer array connects its elements with OR, the inner array connects its elements with AND. The example above reads as "Hammer OR (Silver Key AND Compass)".
 
-Valid tags: `Hammer`, `Boots`, `Compass`, `Spectacles`, `LavaCharm`, `WindRing`, `BlueSword`, `BlueShield`, `RedSword`, `RedShield`, `SilverKey`, `GoldKey`, `RedKey`, `GreenKey`, `BlueKey`, `TealKey`, `PurpleKey`, `SkeletonKey`, `Sword`, `PortalStone`, `Treasure`, `ShrineKey`, `UnderworldKey`, `OrangeCrystal`, `Carrot`, `Mirror`, `NewGame`, `NewGamePlus`
+Valid tags: `Hammer`, `Boots`, `Compass`, `Spectacles`, `LavaCharm`, `WindRing`, `BlueSword`, `BlueShield`, `RedSword`, `RedShield`, `SilverKey`, `GoldKey`, `RedKey`, `GreenKey`, `BlueKey`, `TealKey`, `PurpleKey`, `SkeletonKey`, `Sword`, `PortalStone`, `Treasure`, `ShrineKey`, `UnderworldKey`, `OrangeCrystal`, `Carrot`, `Mirror`, `NewGame`, `NewGamePlus`, `GlitchKey`
 
 Using `UnderworldKey` implies at least `NewGamePlus` (but it may still be needed to specify `NewGamePlus` to express needing the weaker enemies compared to NG++).
 
@@ -57,8 +57,8 @@ The goal for now is to map all permanent collectibles as well as Underworld door
 - [x] MoltenCavern
 - [ ] TheDungeons
 - [x] ItemShop
-- [ ] Convergence
-- [ ] TrialOfReality
+- [x] Convergence
+- [x] TrialOfReality
 - [x] HauntedManse
 - [ ] SmugglersRoad
 - [ ] SmugglersRuin
