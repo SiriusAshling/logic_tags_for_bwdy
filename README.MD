@@ -34,9 +34,9 @@ The goal for now is to map all permanent collectibles as well as Underworld door
 # Progress
 
 - [x] DustShelf
-- [ ] ThroneRoom
-- [ ] ExplodingThroneRoom
-- [ ] CastleRuins
+- [x] ThroneRoom
+- [x] ExplodingThroneRoom
+- [x] CastleRuins
 - [x] NorthMundeman
 - [x] SouthMundeman
 - [x] VerdantCoast

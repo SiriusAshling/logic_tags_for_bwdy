@@ -186,7 +186,7 @@
     },
     {
         "id": "4.26.2",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Compass"
     },
     {
@@ -286,17 +286,17 @@
     },
     {
         "id": "4.16.39",
-        "tags": [],
+        "tags": [["PurpleKey"]],
         "notes": "SkeletonKey"
     },
     {
         "id": "4.1.43",
-        "tags": [],
+        "tags": [["PurpleKey"], ["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "4.20.43",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
@@ -376,7 +376,7 @@
     },
     {
         "id": "4.1.75",
-        "tags": [],
+        "tags": [["PurpleKey"], ["LavaCharm"]],
         "notes": "Sword"
     },
     {
@@ -406,367 +406,367 @@
     },
     {
         "id": "5.3.1",
-        "tags": [],
+        "tags": [["TealKey", "Compass"]],
         "notes": "Sword"
     },
     {
         "id": "5.11.1",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.26.1",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.74.1",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.79.1",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.124.1",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.57.2",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.69.2",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.95.2",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "TealKey"
     },
     {
         "id": "5.116.2",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.40.3",
-        "tags": [],
+        "tags": [["TealKey", "PurpleKey"]],
         "notes": "GemSword"
     },
     {
         "id": "5.54.5",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.17.6",
-        "tags": [],
+        "tags": [["TealKey", "PurpleKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.24.7",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.42.7",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.3.8",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "PurpleKey"
     },
     {
         "id": "5.61.8",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.95.8",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.106.8",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.48.10",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.80.10",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.3.11",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.37.12",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.26.13",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.42.13",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.126.13",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.98.14",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.54.15",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.103.15",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.111.15",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.92.16",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "TealKey"
     },
     {
         "id": "5.18.17",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.36.17",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.126.17",
-        "tags": [],
+        "tags": [["TealKey", "TealKey"], ["TealKey", "Compass"]],
         "notes": "Sword"
     },
     {
         "id": "5.89.18",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.74.19",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.51.20",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.108.20",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.2.22",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.24.22",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.4.23",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.57.23",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.60.23",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.1.25",
-        "tags": [],
+        "tags": [["TealKey", "Compass"]],
         "notes": "Sword"
     },
     {
         "id": "5.82.26",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.95.26",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.98.26",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.40.28",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.52.30",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.64.31",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.73.32",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.126.34",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "PurpleKey"
     },
     {
         "id": "5.22.37",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.126.38",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.76.42",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.89.42",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.100.42",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "PurpleKey"
     },
     {
         "id": "5.123.42",
-        "tags": [],
+        "tags": [["TealKey", "WindRing"]],
         "notes": "TealKey"
     },
     {
         "id": "5.99.46",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.102.49",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.43.52",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.100.52",
-        "tags": [],
+        "tags": [["TealKey", "LavaCharm"], ["TealKey", "TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.115.59",
-        "tags": [],
+        "tags": [["TealKey", "PurpleKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.56.61",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.42.62",
-        "tags": [],
+        "tags": [["TealKey", "LavaCharm", "Compass"]],
         "notes": "Sword"
     },
     {
         "id": "5.51.63",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.44.64",
-        "tags": [],
+        "tags": [["TealKey", "LavaCharm", "Compass"]],
         "notes": "Sword"
     },
     {
         "id": "5.68.64",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.17.65",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.36.72",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.41.73",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.31.77",
-        "tags": [],
+        "tags": [["TealKey", "PurpleKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.29.79",
-        "tags": [],
+        "tags": [["TealKey", "PurpleKey"]],
         "notes": "Hammer"
     },
     {
@@ -776,127 +776,127 @@
     },
     {
         "id": "5.103.81",
-        "tags": [],
+        "tags": [["PurpleKey"]],
         "notes": "TealKey"
     },
     {
         "id": "5.19.82",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "PurpleKey"
     },
     {
         "id": "5.82.83",
-        "tags": [],
+        "tags": [["TealKey", "TealKey"]],
         "notes": "WindRing"
     },
     {
         "id": "5.85.86",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.98.86",
-        "tags": [],
+        "tags": [["TealKey", "LavaCharm"], ["TealKey", "TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.37.87",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.30.93",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.80.93",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "TealKey"
     },
     {
         "id": "5.111.95",
-        "tags": [],
+        "tags": [["TealKey", "TealKey"]],
         "notes": "PurpleKey"
     },
     {
         "id": "5.96.98",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.105.98",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "PurpleKey"
     },
     {
         "id": "5.119.99",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.79.101",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.79.106",
-        "tags": [],
+        "tags": [["TealKey", "WindRing"], ["TealKey", "TealKey", "Compass"], ["TealKey", "TealKey", "TealKey"]],
         "notes": "PurpleKey"
     },
     {
         "id": "5.81.107",
-        "tags": [],
+        "tags": [["TealKey", "WindRing"], ["TealKey", "TealKey", "Compass"], ["TealKey", "TealKey", "TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.120.109",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "TealKey"
     },
     {
         "id": "5.117.110",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.47.111",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.80.111",
-        "tags": [],
+        "tags": [["TealKey", "WindRing"], ["TealKey", "TealKey", "Compass"], ["TealKey", "TealKey", "TealKey"]],
         "notes": "TealKey"
     },
     {
         "id": "5.36.113",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.23.115",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.64.115",
-        "tags": [],
+        "tags": [["TealKey", "WindRing"], ["TealKey", "Compass"], ["TealKey", "TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.78.115",
-        "tags": [],
+        "tags": [["TealKey", "WindRing"], ["TealKey", "Compass"], ["TealKey", "TealKey"]],
         "notes": "Sword"
     },
     {
         "id": "5.50.116",
-        "tags": [],
+        "tags": [["TealKey", "WindRing"], ["TealKey", "Compass"], ["TealKey", "TealKey"]],
         "notes": "TealKey"
     },
     {
         "id": "5.30.118",
-        "tags": [],
+        "tags": [["TealKey"]],
         "notes": "Sword"
     },
     {
