@@ -53,8 +53,8 @@ The goal for now is to map all permanent collectibles as well as Underworld door
 - [ ] CorruptedCastle
 - [ ] CastleMonillud
 - [ ] TheUnderworld
-- [ ] Otherworld
-- [ ] MoltenCavern
+- [x] Otherworld
+- [x] MoltenCavern
 - [ ] TheDungeons
 - [ ] ItemShop
 - [ ] Convergence
