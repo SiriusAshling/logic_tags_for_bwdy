@@ -60,8 +60,8 @@ The goal for now is to map all permanent collectibles as well as Underworld door
 - [x] Convergence
 - [x] TrialOfReality
 - [x] HauntedManse
-- [ ] SmugglersRoad
-- [ ] SmugglersRuin
+- [x] SmugglersRoad
+- [x] SmugglersRuin
 
 # Notes
 
