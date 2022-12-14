@@ -56,7 +56,7 @@ The goal for now is to map all permanent collectibles as well as Underworld door
 - [x] Otherworld
 - [x] MoltenCavern
 - [ ] TheDungeons
-- [ ] ItemShop
+- [x] ItemShop
 - [ ] Convergence
 - [ ] TrialOfReality
 - [x] HauntedManse
@@ -69,6 +69,8 @@ It has been assumed that the player has no global progress.
 
 Coin Shop items aren't really normal items and don't fit that well into the id concept, also feel like shuffling them might not be desirable.
 Since there's a P-Coin in the Coin Shop (`8.114.120`) and by the save format items are guaranteed to not move, could just hack to use that P-Coins logic in combination with the player's current Coin count to determine whether the player can buy shop coin items (either requiring 250 for any to avoid softlocks or enforcing a purchase order).
+
+Since gem shop costs are based on the item on offer, gem requirements have not been noted for those.
 
 # TODO
 Turn empty tag arrays two dimensional

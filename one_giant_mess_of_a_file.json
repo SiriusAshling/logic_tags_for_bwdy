@@ -6526,57 +6526,72 @@
     },
     {
         "id": "28.24.11",
-        "tags": [],
+        "tags": [["NewGame"], ["Hammer"], ["LavaCharm"], ["GoldKey"], ["WindRing", "Compass"], ["WindRing", "UnderworldKey"], ["Mirror", "10 PortalStone"]],
         "notes": "SilverKey"
     },
     {
         "id": "28.26.11",
-        "tags": [],
+        "tags": [["NewGame"], ["Hammer"], ["LavaCharm"], ["GoldKey"], ["WindRing", "Compass"], ["WindRing", "UnderworldKey"], ["Mirror", "10 PortalStone"]],
         "notes": "GoldKey"
     },
     {
         "id": "28.29.12",
-        "tags": [],
+        "tags": [["NewGame"], ["Hammer"], ["LavaCharm"], ["GoldKey"], ["WindRing", "Compass"], ["WindRing", "UnderworldKey"], ["Mirror", "10 PortalStone"]],
         "notes": "PossumCoin"
     },
     {
         "id": "28.13.16",
-        "tags": [],
+        "tags": [
+            ["2 SilverKey", "Hammer"],
+            ["3 SilverKey", "WindRing", "LavaCharm"], ["3 SilverKey", "NewGamePlus", "WindRing"],
+            ["Mirror", "10 PortalStone", "GoldKey", "SilverKey", "GoldKey"], ["Mirror", "10 PortalStone", "GoldKey" ,"WindRing"],
+            ["Mirror", "10 PortalStone", "GoldKey", "SilverKey", "Hammer"]
+        ],
         "notes": "Sword"
     },
     {
         "id": "28.15.16",
-        "tags": [],
+        "tags": [
+            ["2 SilverKey", "Hammer"],
+            ["3 SilverKey", "WindRing", "LavaCharm"], ["3 SilverKey", "NewGamePlus", "WindRing"],
+            ["Mirror", "10 PortalStone", "GoldKey", "SilverKey", "GoldKey"], ["Mirror", "10 PortalStone", "GoldKey" ,"WindRing"],
+            ["Mirror", "10 PortalStone", "GoldKey", "SilverKey", "Hammer"]
+        ],
         "notes": "Treasure"
     },
     {
         "id": "28.17.16",
-        "tags": [],
+        "tags": [
+            ["2 SilverKey", "Hammer"],
+            ["3 SilverKey", "WindRing", "LavaCharm"], ["3 SilverKey", "NewGamePlus", "WindRing"],
+            ["Mirror", "10 PortalStone", "GoldKey", "SilverKey", "GoldKey"], ["Mirror", "10 PortalStone", "GoldKey" ,"WindRing"],
+            ["Mirror", "10 PortalStone", "GoldKey", "SilverKey", "Hammer"]
+        ],
         "notes": "PortalStone"
     },
     {
         "id": "28.6.20",
-        "tags": [],
+        "tags": [["NewGame"], ["Hammer"], ["LavaCharm"], ["GoldKey"], ["WindRing", "Compass"], ["WindRing", "UnderworldKey"], ["Mirror", "10 PortalStone"]],
         "notes": "SilverKey"
     },
     {
         "id": "28.8.20",
-        "tags": [],
+        "tags": [["NewGame"], ["Hammer"], ["LavaCharm"], ["GoldKey"], ["WindRing", "Compass"], ["WindRing", "UnderworldKey"], ["Mirror", "10 PortalStone"]],
         "notes": "Sword"
     },
     {
         "id": "28.24.20",
-        "tags": [],
+        "tags": [["WindRing"], ["GoldKey"]],
         "notes": "Treasure"
     },
     {
         "id": "28.26.20",
-        "tags": [],
+        "tags": [["WindRing"], ["GoldKey"]],
         "notes": "PortalStone"
     },
     {
         "id": "28.26.24",
-        "tags": [],
+        "tags": [["WindRing"], ["GoldKey"]],
         "notes": "PossumCoin"
     },
     {
@@ -6586,7 +6601,7 @@
     },
     {
         "id": "28.26.26",
-        "tags": [],
+        "tags": [["WindRing"], ["GoldKey"]],
         "notes": "PossumCoin"
     },
     {
