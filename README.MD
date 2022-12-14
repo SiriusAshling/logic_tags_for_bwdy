@@ -75,4 +75,3 @@ Since gem shop costs are based on the item on offer, gem requirements have not b
 # TODO
 Turn empty tag arrays two dimensional
 global data things: cats to kill enemies, paths to the eye, paths using the cleared smugglers road, fishing rods and fish
-add ng++ variants where only ng+ is used incorrectly
