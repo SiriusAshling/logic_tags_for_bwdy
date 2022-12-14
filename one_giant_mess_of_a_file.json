@@ -5264,17 +5264,17 @@
     },
     {
         "id": "20.13.11",
-        "tags": [],
+        "tags": [["SkeletonKey", "50 Swords", "LavaCharm", "GreenKey"], ["SkeletonKey", "BlueSword", "LavaCharm", "GreenKey"], ["SkeletonKey", "RedSword", "LavaCharm", "GreenKey"]],
         "notes": "PossumCoin"
     },
     {
         "id": "20.35.11",
-        "tags": [],
+        "tags": [["SkeletonKey", "50 Swords", "LavaCharm", "GreenKey"], ["SkeletonKey", "BlueSword", "LavaCharm", "GreenKey"], ["SkeletonKey", "RedSword", "LavaCharm", "GreenKey"]],
         "notes": "PossumCoin"
     },
     {
         "id": "21.1.2",
-        "tags": [],
+        "tags": [["SilverKey"]],
         "notes": "Sword"
     },
     {
@@ -5289,7 +5289,7 @@
     },
     {
         "id": "21.77.3",
-        "tags": [],
+        "tags": [["30 Swords"]],
         "notes": "PortalStone"
     },
     {
@@ -5349,17 +5349,17 @@
     },
     {
         "id": "21.19.16",
-        "tags": [],
+        "tags": [["30 Swords"]],
         "notes": "PortalStone"
     },
     {
         "id": "21.16.17",
-        "tags": [],
+        "tags": [["30 Swords"]],
         "notes": "PossumCoin"
     },
     {
         "id": "21.29.18",
-        "tags": [],
+        "tags": [["GoldKey"]],
         "notes": "Gem"
     },
     {
@@ -5394,7 +5394,7 @@
     },
     {
         "id": "21.62.25",
-        "tags": [],
+        "tags": [["GoldKey"]],
         "notes": "Gem"
     },
     {
@@ -5434,7 +5434,7 @@
     },
     {
         "id": "21.16.39",
-        "tags": [],
+        "tags": [["SilverKey"]],
         "notes": "Treasure"
     },
     {
@@ -5444,7 +5444,7 @@
     },
     {
         "id": "21.45.40",
-        "tags": [],
+        "tags": [["SkeletonKey", "50 Swords", "LavaCharm", "GreenKey"], ["SkeletonKey", "BlueSword", "LavaCharm", "GreenKey"], ["SkeletonKey", "RedSword", "LavaCharm", "GreenKey"]],
         "notes": "PossumCoin"
     },
     {
@@ -5459,7 +5459,7 @@
     },
     {
         "id": "21.20.43",
-        "tags": [],
+        "tags": [["SilverKey"]],
         "notes": "GoldKey"
     },
     {
@@ -5474,7 +5474,7 @@
     },
     {
         "id": "21.13.47",
-        "tags": [],
+        "tags": [["SilverKey"]],
         "notes": "SilverKey"
     },
     {
@@ -5489,12 +5489,12 @@
     },
     {
         "id": "21.11.49",
-        "tags": [],
+        "tags": [["SilverKey"]],
         "notes": "PossumCoin"
     },
     {
         "id": "21.21.49",
-        "tags": [],
+        "tags": [["SilverKey"]],
         "notes": "Sword"
     },
     {
@@ -5504,7 +5504,7 @@
     },
     {
         "id": "21.43.51",
-        "tags": [],
+        "tags": [["SkeletonKey", "50 Swords", "LavaCharm", "GreenKey"], ["SkeletonKey", "BlueSword", "LavaCharm", "GreenKey"], ["SkeletonKey", "RedSword", "LavaCharm", "GreenKey"]],
         "notes": "PossumCoin"
     },
     {
@@ -5514,12 +5514,12 @@
     },
     {
         "id": "21.11.53",
-        "tags": [],
+        "tags": [["SilverKey"]],
         "notes": "Treasure"
     },
     {
         "id": "21.17.53",
-        "tags": [],
+        "tags": [["SilverKey"]],
         "notes": "Treasure"
     },
     {
@@ -5534,7 +5534,7 @@
     },
     {
         "id": "21.21.55",
-        "tags": [],
+        "tags": [["SilverKey"]],
         "notes": "Gem"
     },
     {
@@ -5549,7 +5549,7 @@
     },
     {
         "id": "21.28.57",
-        "tags": [],
+        "tags": [-],
         "notes": "GoldKey"
     },
     {
@@ -5559,7 +5559,7 @@
     },
     {
         "id": "21.51.58",
-        "tags": [],
+        "tags": [["GoldKey"]],
         "notes": "PortalStone"
     },
     {
@@ -5599,7 +5599,7 @@
     },
     {
         "id": "21.50.64",
-        "tags": [],
+        "tags": [["GoldKey"]],
         "notes": "SilverKey"
     },
     {
