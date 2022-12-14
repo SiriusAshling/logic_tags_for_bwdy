@@ -5768,28 +5768,99 @@
     },
     {
         "id": "23.36.4",
-        "tags": [],
+        "tags": [["9 UnderworldKey", "LavaCharm", "BlueSword"], ["9 UnderworldKey", "LavaCharm", "RedSword"]],
         "notes": "Treasure"
     },
     {
         "id": "23.37.11",
-        "tags": [],
+        "tags": [["9 UnderworldKey", "LavaCharm", "BlueSword"], ["9 UnderworldKey", "LavaCharm", "RedSword"]],
         "notes": "RedSword"
     },
     {
         "id": "23.41.11",
-        "tags": [],
+        "tags": [["9 UnderworldKey", "LavaCharm", "BlueSword"], ["9 UnderworldKey", "LavaCharm", "RedSword"]],
         "notes": "RedShield"
     },
     {
         "id": "23.97.18",
-        "tags": [],
+        "tags": [["NewGamePlus"]],
         "notes": "LavaCharm"
     },
     {
+        "id": "23.38.21",
+        "tags": [["UnderworldKey", "LavaCharm", "50 Sword"], ["UnderworldKey", "LavaCharm", "BlueSword"], ["UnderworldKey", "LavaCharm", "RedSword"], ["UnderworldKey", "LavaCharm", "RedShield"]],
+        "notes": "UnderworldDoor"
+    },
+    {
+        "id": "23.117.23",
+        "tags": [
+            ["NewGamePlus", "LavaCharm"],
+            ["UnderworldKey", "Hammer"], ["UnderworldKey", "GoldKey"], ["UnderworldKey", "WindRing", "Compass"], ["UnderworldKey", "WindRing", "UnderworldKey"], ["UnderworldKey", "Mirror", "10 PortalStone"],
+            ["5 UnderworldKey"], ["4 UnderworldKey", "Compass"]
+        ],
+        "notes": "UnderworldDoor"
+    },
+    {
+        "id": "23.23.29",
+        "tags": [
+            ["NewGamePlus", "Hammer"], ["NewGamePlus", "LavaCharm"], ["NewGamePlus", "GoldKey"], ["NewGamePlus", "WindRing", "Compass"], ["WindRing", "UnderworldKey"], ["NewGamePlus", "Mirror", "10 PortalStone"],
+            ["4 UnderworldKey"], ["3 UnderworldKey", "Compass"]
+        ],
+        "notes": "UnderworldDoor"
+    },
+    {
+        "id": "23.64.29",
+        "tags": [["NewGamePlus", "LavaCharm"]],
+        "notes": "UnderworldDoor"
+    },
+    {
+        "id": "23.6.74",
+        "tags": [
+            ["NewGamePlus", "Hammer"], ["NewGamePlus", "LavaCharm"], ["NewGamePlus", "GoldKey"], ["NewGamePlus", "WindRing", "Compass"], ["WindRing", "UnderworldKey"], ["NewGamePlus", "Mirror", "10 PortalStone"],
+            ["3 UnderworldKey"], ["2 UnderworldKey", "Compass"]
+        ],
+        "notes": "UnderworldDoor"
+    },
+    {
+        "id": "23.106.77",
+        "tags": [
+            ["NewGamePlus", "Compass", "Hammer"], ["NewGamePlus", "Compass", "LavaCharm"], ["NewGamePlus", "Compass", "GoldKey"], ["NewGamePlus", "WindRing", "Compass"], ["NewGamePlus", "Compass", "Mirror", "10 PortalStone"],
+            ["NewGamePlus", "LavaCharm", "WindRing"], ["NewGamePlus", "LavaCharm", "Hammer"],
+            ["2 UnderworldKey"], ["Compass", "UnderworldKey"],
+            ["WindRing", "Hammer", "UnderworldKey"], ["WindRing", "GoldKey", "UnderworldKey"], ["UnderworldKey", "WindRing", "Mirror", "10 PortalStone"],
+            ["GoldKey", "Hammer", "UnderworldKey"], ["GoldKey", "LavaCharm", "UnderworldKey"], ["GoldKey", "GoldKey", "UnderworldKey"], ["UnderworldKey", "GoldKey", "Mirror", "10 PortalStone"],
+            ["LavaCharm", "UnderworldKey", "NewGamePlus", "23 Sword"],
+            ["LavaCharm", "UnderworldKey", "50 Swords"],
+            ["LavaCharm", "UnderworldKey", "BlueSword"],
+            ["LavaCharm", "UnderworldKey", "RedSword"]
+        ],
+        "notes": "UnderworldDoor"
+    },
+    {
+        "id": "23.99.98",
+        "tags": [
+            ["UnderworldKey"],
+            ["NewGamePlus", "GoldKey", "Hammer"], ["NewGamePlus", "GoldKey", "LavaCharm"], ["NewGamePlus", "GoldKey", "GoldKey"], ["NewGamePlus", "GoldKey", "Mirror", "10 PortalStone"],
+            ["NewGamePlus", "WindRing", "Hammer"], ["NewGamePlus", "WindRing", "LavaCharm"], ["NewGamePlus", "WindRing", "GoldKey"], ["NewGamePlus", "WindRing", "Compass"], ["NewGamePlus", "WindRing", "Mirror", "10 PortalStone"],
+            ["NewGamePlus", "Compass", "Hammer"], ["NewGamePlus", "Compass", "LavaCharm"], ["NewGamePlus", "Compass", "GoldKey"], ["NewGamePlus", "Compass", "Mirror", "10 PortalStone"],
+            ["NewGamePlus", "LavaCharm", "Hammer"]
+        ],
+        "notes": "UnderworldDoor"
+    },
+    {
+        "id": "23.73.101",
+        "tags": [["NewGamePlus"]],
+        "notes": "UnderworldDoor"
+    },
+    {
         "id": "23.40.107",
-        "tags": [],
+        "tags": [["NewGamePlus", "WindRing"]],
         "notes": "Boots"
+    },
+    {
+        "id": "23.58.112",
+        "tags": [["NewGamePlus"]],
+        "notes": "UnderworldDoor"
     },
     {
         "id": "24.10.1",
