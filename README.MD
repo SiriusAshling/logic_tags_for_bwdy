@@ -42,7 +42,7 @@ The goal for now is to map all permanent collectibles as well as Underworld door
 - [x] VerdantCoast
 - [x] OtherworldArena
 - [x] CastleGrounds
-- [ ] Sanctuary
+- [x] Sanctuary
 - [x] TheTunnels
 - [x] Luddershore
 - [x] TheTundra
