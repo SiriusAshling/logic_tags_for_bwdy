@@ -77,4 +77,3 @@ Turn empty tag arrays two dimensional
 global data things: cats to kill enemies, paths to the eye, paths using the cleared smugglers road, fishing rods and fish
 add ng++ variants where only ng+ is used incorrectly
 check for duplicate listed requirements of single items
-the northwest swamp island is wrong
