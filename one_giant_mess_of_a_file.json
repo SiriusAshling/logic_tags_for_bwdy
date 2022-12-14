@@ -2550,7 +2550,11 @@
     },
     {
         "id": "10.100.55",
-        "tags": [["SilverKey", "GoldKey", "SilverKey", "BlueKey", "SilverKey", "GoldKey"], ["GoldKey", "GoldKey", "SilverKey", "GoldKey", "SilverKey", "GoldKey", "SilverKey", "SilverKey", "GoldKey", "SilverKey", "SilverKey", "SilverKey", "SilverKey", "GoldKey", "SilverKey", "SilverKey", "SilverKey", "GoldKey", "GoldKey"]],
+        "tags": [
+            ["WindRing", "SilverKey"],
+            ["SilverKey", "GoldKey", "SilverKey", "BlueKey", "SilverKey", "GoldKey"],
+            ["GoldKey", "GoldKey", "SilverKey", "GoldKey", "SilverKey", "GoldKey", "SilverKey", "SilverKey", "GoldKey", "SilverKey", "SilverKey", "SilverKey", "SilverKey", "GoldKey", "SilverKey", "SilverKey", "SilverKey", "GoldKey", "GoldKey", "SilverKey"]
+        ],
         "notes": "PossumCoin"
     },
     {
@@ -6388,7 +6392,7 @@
     },
     {
         "id": "27.71.9",
-        "tags": [],
+        "tags": [["WindRing"]],
         "notes": "PossumCoin"
     },
     {
@@ -6423,7 +6427,7 @@
     },
     {
         "id": "27.7.18",
-        "tags": [],
+        "tags": [["GoldKey", "GoldKey"]],
         "notes": "PossumCoin"
     },
     {
@@ -6463,7 +6467,7 @@
     },
     {
         "id": "27.25.32",
-        "tags": [],
+        "tags": [["4 ShrineKey", "GoldKey", "Compass", "50 Sword"], ["4 ShrineKey", "GoldKey", "Compass", "BlueSword"], ["4 ShrineKey", "GoldKey", "Compass", "RedSword"], ["4 ShrineKey", "GoldKey", "Compass", "RedSword"]],
         "notes": "Treasure"
     },
     {
@@ -6603,7 +6607,7 @@
     },
     {
         "id": "27.81.77",
-        "tags": [],
+        "tags": [["WindRing"]],
         "notes": "Treasure"
     },
     {
@@ -6638,12 +6642,20 @@
     },
     {
         "id": "27.9.90",
-        "tags": [],
+        "tags": [
+            ["WindRing"],
+            ["SilverKey", "GoldKey", "SilverKey", "BlueKey", "SilverKey", "GoldKey", "SilverKey"],
+            ["GoldKey", "GoldKey", "SilverKey", "GoldKey", "SilverKey", "GoldKey", "SilverKey", "SilverKey", "GoldKey", "SilverKey", "SilverKey", "SilverKey", "SilverKey", "GoldKey", "SilverKey", "SilverKey", "SilverKey", "GoldKey", "GoldKey"]
+        ],
         "notes": "GoldKey"
     },
     {
         "id": "27.10.90",
-        "tags": [],
+        "tags": [
+            ["WindRing"],
+            ["SilverKey", "GoldKey", "SilverKey", "BlueKey", "SilverKey", "GoldKey", "SilverKey"],
+            ["GoldKey", "GoldKey", "SilverKey", "GoldKey", "SilverKey", "GoldKey", "SilverKey", "SilverKey", "GoldKey", "SilverKey", "SilverKey", "SilverKey", "SilverKey", "GoldKey", "SilverKey", "SilverKey", "SilverKey", "GoldKey", "GoldKey"]
+        ],
         "notes": "GoldKey"
     },
     {
@@ -6653,7 +6665,7 @@
     },
     {
         "id": "27.50.90",
-        "tags": [],
+        "tags": [["WindRing"]],
         "notes": "PossumCoin"
     },
     {

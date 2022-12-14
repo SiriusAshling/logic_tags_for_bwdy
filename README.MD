@@ -12,7 +12,7 @@ This repository documents the requirements to reach each item location in Hero's
 
 `id` is structured as `<map id>.<x>.<y>`
 
-`tags` are a two dimensional array. The outer array connects its elements with OR, the inner array connects its elements with AND. The example above reads as "Hammer OR (Silver Key AND Compass)".
+`tags` are a two dimensional array. The outer array connects its elements with OR, the inner array connects its elements with AND. The example above reads as "(Hammer) OR (Silver Key AND Compass) OR (10 Swords)".
 
 Valid tags: `Hammer`, `Boots`, `Compass`, `Spectacles`, `LavaCharm`, `WindRing`, `BlueSword`, `BlueShield`, `RedSword`, `RedShield`, `SilverKey`, `GoldKey`, `RedKey`, `GreenKey`, `BlueKey`, `TealKey`, `PurpleKey`, `SkeletonKey`, `Sword`, `PortalStone`, `Treasure`, `ShrineKey`, `UnderworldKey`, `OrangeCrystal`, `Mirror`, `NewGame`, `NewGamePlus`, `NewGamePlusPlus`, `GlitchKey`
 
@@ -22,7 +22,7 @@ If the first character of a tag is numeric, it specifies the amount needed in th
 
 `notes` are optional
 
-The goal for now is to map all permanent collectibles as well as Underworld doors and Portals
+So far only permanent collectibles as well as Underworld doors and Portals have been mapped.
 
 # Assumptions for simplicity
 
@@ -55,7 +55,7 @@ The goal for now is to map all permanent collectibles as well as Underworld door
 - [x] TheUnderworld
 - [x] Otherworld
 - [x] MoltenCavern
-- [ ] TheDungeons
+- [x] TheDungeons
 - [x] ItemShop
 - [x] Convergence
 - [x] TrialOfReality
