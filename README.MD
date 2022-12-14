@@ -75,5 +75,4 @@ Since gem shop costs are based on the item on offer, gem requirements have not b
 # TODO
 Turn empty tag arrays two dimensional
 add underworld doors
-add portal "doors"
 global data things: cats to kill enemies, paths to the eye, paths using the cleared smugglers road, fishing rods and fish
