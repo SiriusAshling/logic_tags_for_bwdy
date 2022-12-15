@@ -19,15 +19,7 @@ Valid tags:
 - Game mode: `NewGame`, `NewGamePlus`, `NewGamePlusPlus`
 - Global data: `GlitchKey`, `BlueCat`, `SmugglersRoadRestored`
 
-Using `UnderworldKey` implies at least `NewGamePlus` (but it may still be needed to specify `NewGamePlus` to express needing the weaker enemies compared to NG++). None of the game mode tags imply any other game mode.
-
 If the first character of a tag is numeric, it specifies the amount needed in the format `<amount> <tag>`. It is still valid for a tag to appear multiple times like `GoldKey, GoldKey`, in which case it should be treated as requiring multiple.
-
-All the global data requirements can be derived from having access to a certain item:
-- `8.89.35` on ANY file (although only NG+ can reach it) -> `BlueCat` (other cats don't have logical implications)
-- `19.15.2` on ALL files -> `GlitchKey`
-
-Note that this will require some recursion on the reach check since getting access to an item which unlocks a new global data may unlock further items in the same step.
 
 # Assumptions for simplicity
 
@@ -38,7 +30,6 @@ Note that this will require some recursion on the reach check since getting acce
 - Silver and Gold Doors aren't mapped (technically they should be, but it's a lot of extra work to avoid a type of softlock that probably will never happen anyway)
 
 # Progress
-
 - [x] DustShelf
 - [x] ThroneRoom
 - [x] ExplodingThroneRoom
@@ -71,6 +62,15 @@ Note that this will require some recursion on the reach check since getting acce
 
 # Notes
 
+Using `UnderworldKey` implies at least `NewGamePlus` (but it may still be needed to specify `NewGamePlus` to express needing the weaker enemies compared to NG++). None of the game mode tags imply any other game mode.
+
+All the global data requirements can be derived from having access to a certain item:
+- `8.89.35` on ANY file (although only NG+ can reach it) -> `BlueCat` (other cats don't have logical implications)
+- `41.19.20` on ANY file -> `SmugglersRoadRestored` (assuming it is still the location that restores Smuggler's Road in the randomizer)
+- `19.15.2` on ALL files -> `GlitchKey`
+
+Note that this will require some recursion on the reach check since getting access to an item which unlocks a new global data may unlock further items in the same step.
+
 So far only permanent collectibles as well as Underworld doors and Portals have been mapped.
 
 It has been assumed that the player starts with no global progress.
@@ -79,6 +79,3 @@ Coin Shop items aren't in one definitive map position, not sure what to do with 
 Since there's a P-Coin in the Coin Shop (`8.114.120`) and by the save format items are guaranteed to not move, could just hack to use that P-Coins logic in combination with the player's current Coin count to determine whether the player can buy shop coin items (either requiring 250 for any to avoid softlocks or enforcing a purchase order).
 
 Since gem shop costs are based on the item on offer, gem requirements have not been noted for those.
-
-# TODO
-global data things: cats to kill enemies, paths to the eye, paths using the cleared smugglers road, fishing rods and fish
