@@ -5343,12 +5343,12 @@
     },
     {
         "id": "20.13.11",
-        "tags": [["GreenKey", "LavaCharm", "50 Sword", "SkeletonKey"]],
+        "tags": [["SkeletonKey", "50 Swords", "LavaCharm", "GreenKey"], ["SkeletonKey", "BlueSword", "LavaCharm", "GreenKey"], ["SkeletonKey", "RedSword", "LavaCharm", "GreenKey"]],
         "notes": "PossumCoin"
     },
     {
         "id": "20.35.11",
-        "tags": [["GreenKey", "LavaCharm", "50 Sword", "SkeletonKey"]],
+        "tags": [["SkeletonKey", "50 Swords", "LavaCharm", "GreenKey"], ["SkeletonKey", "BlueSword", "LavaCharm", "GreenKey"], ["SkeletonKey", "RedSword", "LavaCharm", "GreenKey"]],
         "notes": "PossumCoin"
     },
     {
@@ -5523,7 +5523,7 @@
     },
     {
         "id": "21.45.40",
-        "tags": [["GreenKey", "LavaCharm", "50 Sword", "SkeletonKey"]],
+        "tags": [["SkeletonKey", "50 Swords", "LavaCharm", "GreenKey"], ["SkeletonKey", "BlueSword", "LavaCharm", "GreenKey"], ["SkeletonKey", "RedSword", "LavaCharm", "GreenKey"]],
         "notes": "PossumCoin"
     },
     {
@@ -5583,7 +5583,7 @@
     },
     {
         "id": "21.43.51",
-        "tags": [["GreenKey", "LavaCharm", "50 Sword", "SkeletonKey"]],
+        "tags": [["SkeletonKey", "50 Swords", "LavaCharm", "GreenKey"], ["SkeletonKey", "BlueSword", "LavaCharm", "GreenKey"], ["SkeletonKey", "RedSword", "LavaCharm", "GreenKey"]],
         "notes": "PossumCoin"
     },
     {
