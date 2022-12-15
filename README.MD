@@ -73,5 +73,4 @@ Since there's a P-Coin in the Coin Shop (`8.114.120`) and by the save format ite
 Since gem shop costs are based on the item on offer, gem requirements have not been noted for those.
 
 # TODO
-Turn empty tag arrays two dimensional
 global data things: cats to kill enemies, paths to the eye, paths using the cleared smugglers road, fishing rods and fish
