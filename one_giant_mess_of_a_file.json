@@ -1847,6 +1847,11 @@
         "notes": "PortalStone"
     },
     {
+        "id": "8.89.35",
+        "tags": [["NewGamePlus", "Fish"]],
+        "notes": "Cat"
+    },
+    {
         "id": "8.80.36",
         "tags": [["SilverKey", "NewGame", "GoldKey"], ["SilverKey", "Hammer"], ["SilverKey", "WindRing"], ["SilverKey", "Mirror"], ["SilverKey", "NewGame", "13 Sword"], ["SilverKey", "NewGamePlus", "13 Sword"], ["SilverKey", "50 Sword"], ["SilverKey", "BlueSword"], ["SilverKey", "RedSword"], ["SilverKey", "RedShield"]],
         "notes": "Treasure"
@@ -1900,6 +1905,11 @@
         "id": "8.65.42",
         "tags": [[]],
         "notes": "Treasure"
+    },
+    {
+        "id": "8.84.42",
+        "tags": [["NewGame", "FishingRod"]],
+        "notes": "Fish"
     },
     {
         "id": "8.58.44",
@@ -2498,6 +2508,11 @@
             ["GoldKey", "GoldKey", "RedShield"]
         ],
         "notes": "Gem"
+    },
+    {
+        "id": "10.76.42",
+        "tags": [["NewGamePlusPlus", "Fish"]],
+        "notes": "Cat"
     },
     {
         "id": "10.89.42",
@@ -4172,6 +4187,11 @@
         "notes": "SilverKey"
     },
     {
+        "id": "15.111.97",
+        "tags": [["NewGame", "Fish"]],
+        "notes": "Cat"
+    },
+    {
         "id": "15.120.99",
         "tags": [["NewGame"], ["Hammer"], ["LavaCharm"], ["GoldKey"], ["WindRing", "Compass"], ["WindRing", "UnderworldKey"], ["Mirror", "10 PortalStone"]],
         "notes": "PossumCoin"
@@ -5556,6 +5576,15 @@
         "notes": "PossumCoin"
     },
     {
+        "id": "21.31.46",
+        "tags": [
+            ["NewGamePlusPlus", "FishingRod", "SkeletonKey", "50 Swords", "LavaCharm", "GreenKey"],
+            ["NewGamePlusPlus", "FishingRod", "SkeletonKey", "BlueSword", "LavaCharm", "GreenKey"],
+            ["NewGamePlusPlus", "FishingRod", "SkeletonKey", "RedSword", "LavaCharm", "GreenKey"]
+        ],
+        "notes": "Fish"
+    },
+    {
         "id": "21.65.46",
         "tags": [[]],
         "notes": "Gem"
@@ -5796,6 +5825,11 @@
         "notes": "LavaCharm"
     },
     {
+        "id": "23.14.19",
+        "tags": [["NewGamePlusPlus", "WindRing", "Hammer"], ["NewGamePlusPlus", "WindRing", "LavaCharm"], ["NewGamePlusPlus", "WindRing", "GoldKey"], ["NewGamePlusPlus", "WindRing", "Compass"], ["NewGamePlusPlus", "WindRing", "UnderworldKey"], ["NewGamePlusPlus", "WindRing", "Mirror", "10 PortalStone"]],
+        "notes": "FishingRod"
+    },
+    {
         "id": "23.38.21",
         "tags": [["UnderworldKey", "LavaCharm", "50 Sword"], ["UnderworldKey", "LavaCharm", "BlueSword"], ["UnderworldKey", "LavaCharm", "RedSword"], ["UnderworldKey", "LavaCharm", "RedShield"]],
         "notes": "UnderworldDoor"
@@ -5821,6 +5855,14 @@
         "id": "23.64.29",
         "tags": [["NewGamePlus", "LavaCharm"], ["NewGamePlusPlus", "LavaCharm"]],
         "notes": "UnderworldDoor"
+    },
+    {
+        "id": "23.58.60",
+        "tags": [
+            ["NewGamePlus", "FishingRod", "Hammer"], ["NewGamePlus", "FishingRod", "LavaCharm"], ["NewGamePlus", "FishingRod", "GoldKey"], ["NewGamePlus", "FishingRod", "WindRing", "Compass"], ["NewGamePlus", "FishingRod", "WindRing", "UnderworldKey"], ["NewGamePlus", "FishingRod", "Mirror", "10 PortalStone"],
+            ["NewGamePlus", "FishingRod", "4 UnderworldKey"], ["NewGamePlus", "FishingRod", "3 UnderworldKey", "Compass"]
+        ],
+        "notes": "Fish"
     },
     {
         "id": "23.6.74",
@@ -6352,6 +6394,11 @@
         "notes": "PossumCoin"
     },
     {
+        "id": "26.14.93",
+        "tags": [["LavaCharm"]],
+        "notes": "FishingRod"
+    },
+    {
         "id": "26.43.93",
         "tags": [
             ["LavaCharm"],
@@ -6777,5 +6824,20 @@
             ["GoldKey", "SilverKey", "WindRing", "Hammer", "LavaCharm", "NewGamePlus", "RedSword"]
         ],
         "notes": "PossumCoin"
+    },
+    {
+        "id": "35.8.21",
+        "tags": [
+            ["NewGame", "GoldKey", "SilverKey", "WindRing", "Hammer", "LavaCharm", "Compass", "23 Sword", "BlueBoots"],
+            ["NewGame", "GoldKey", "SilverKey", "WindRing", "Hammer", "LavaCharm", "Compass", "65 Sword"],
+            ["NewGame", "GoldKey", "SilverKey", "WindRing", "Hammer", "LavaCharm", "Compass", "BlueSword"],
+            ["NewGame", "GoldKey", "SilverKey", "WindRing", "Hammer", "LavaCharm", "Compass", "RedSword"]
+        ],
+        "notes": "FishingRod"
+    },
+    {
+        "id": "41.19.20",
+        "tags": [["LavaCharm", "Hammer", "WindRing", "BlueSword"], ["LavaCharm", "Hammer", "WindRing", "RedSword"]],
+        "notes": "Eye"
     }
 ]
