@@ -29,37 +29,6 @@ If the first character of a tag is numeric, it specifies the amount needed in th
 - Hearts are not shuffled (can add this without much overhead, just saving work for now)
 - Silver and Gold Doors aren't mapped (technically they should be, but it's a lot of extra work to avoid a type of softlock that probably will never happen anyway)
 
-# Progress
-- [x] DustShelf
-- [x] ThroneRoom
-- [x] ExplodingThroneRoom
-- [x] CastleRuins
-- [x] NorthMundeman
-- [x] SouthMundeman
-- [x] VerdantCoast
-- [x] OtherworldArena
-- [x] CastleGrounds
-- [x] Sanctuary
-- [x] TheTunnels
-- [x] Luddershore
-- [x] TheTundra
-- [x] FrozenShore
-- [x] HallowGround
-- [x] SouthernSwamp
-- [x] DragonsLair
-- [x] CorruptedCastle
-- [x] CastleMonillud
-- [x] TheUnderworld
-- [x] Otherworld
-- [x] MoltenCavern
-- [x] TheDungeons
-- [x] ItemShop
-- [x] Convergence
-- [x] TrialOfReality
-- [x] HauntedManse
-- [x] SmugglersRoad
-- [x] SmugglersRuin
-
 # Notes
 
 Using `UnderworldKey` implies `NewGamePlus` OR `NewGamePlusPlus` (but it may still be needed to specify `NewGamePlus` to express needing the weaker enemies compared to NG++).
