@@ -1663,7 +1663,7 @@
     },
     {
         "id": "8.60.8",
-        "tags": [["GoldKey", "Compass", "50 Sword"], ["GoldKey", "Compass", "BlueSword"], ["GoldKey", "Compass", "RedSword"], ["GoldKey", "Compass", "RedSword"], ["GoldKey", "Compass", "BlueCat"]],
+        "tags": [["GoldKey", "Compass", "50 Sword"], ["GoldKey", "Compass", "BlueSword"], ["GoldKey", "Compass", "RedSword"], ["GoldKey", "Compass", "RedShield"], ["GoldKey", "Compass", "BlueCat"]],
         "notes": "ShrineKey"
     },
     {
@@ -6537,7 +6537,7 @@
     },
     {
         "id": "27.25.32",
-        "tags": [["4 ShrineKey", "GoldKey", "Compass", "50 Sword"], ["4 ShrineKey", "GoldKey", "Compass", "BlueSword"], ["4 ShrineKey", "GoldKey", "Compass", "RedSword"], ["4 ShrineKey", "GoldKey", "Compass", "RedSword"]],
+        "tags": [["4 ShrineKey", "GoldKey", "Compass", "50 Sword"], ["4 ShrineKey", "GoldKey", "Compass", "BlueSword"], ["4 ShrineKey", "GoldKey", "Compass", "RedSword"], ["4 ShrineKey", "GoldKey", "Compass", "RedShield"]],
         "notes": "Treasure"
     },
     {
