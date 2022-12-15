@@ -23,14 +23,17 @@ Using `UnderworldKey` implies at least `NewGamePlus` (but it may still be needed
 
 If the first character of a tag is numeric, it specifies the amount needed in the format `<amount> <tag>`. It is still valid for a tag to appear multiple times like `GoldKey, GoldKey`, in which case it should be treated as requiring multiple.
 
-`notes` are optional
+All the global data requirements can be derived from having access to a certain item:
+- `8.89.35` on ANY file (although only NG+ can reach it) -> `BlueCat` (other cats don't have logical implications)
+- `19.15.2` on ALL files -> `GlitchKey`
 
-So far only permanent collectibles as well as Underworld doors and Portals have been mapped.
+Note that this will require some recursion on the reach check since getting access to an item which unlocks a new global data may unlock further items in the same step.
 
 # Assumptions for simplicity
 
 - The starting point is normal and all portals and transitions connect as usual
 - Gold Sword, Shields and Stopwatches are not shuffled (so they may be used from their normal locations)
+- Cats are not shuffled (so they may be used from their normal locations)
 - Hearts are not shuffled (can add this without much overhead, just saving work for now)
 - Silver and Gold Doors aren't mapped (technically they should be, but it's a lot of extra work to avoid a type of softlock that probably will never happen anyway)
 
