@@ -50,8 +50,8 @@ So far only permanent collectibles as well as Underworld doors and Portals have 
 - [x] HallowGround
 - [x] SouthernSwamp
 - [x] DragonsLair
-- [ ] CorruptedCastle
-- [ ] CastleMonillud
+- [x] CorruptedCastle
+- [x] CastleMonillud
 - [x] TheUnderworld
 - [x] Otherworld
 - [x] MoltenCavern
